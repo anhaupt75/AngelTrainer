@@ -1,1407 +1,705 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sections>
-	<section name="Gewässerkunde">
+	<section name="Allgemeine Fischkunde">
 		<item>
-			<question>1. Wasser ist eine chemische Verbindung aus ...?</question>
-			<answer0>1 Teil Wasserstoff und 1 Teil Sauerstoff</answer0>
-			<answer1>2 Teilen Wasserstoff und 1 Teil Sauerstoff</answer1>
-			<answer2>1 Teil Wasserstoff und 2 Teilen Sauerstoff</answer2>
-			<rightAnswer>1</rightAnswer>
+			<question>1. Wieviel Fischarten leben in Thüringen?</question>
+			<answer0>weniger als 50</answer0>
+			<answer1>50 bis 80</answer1>
+			<answer2>mehr als 80</answer2>
+			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>2. Welches im Wasser gelöste Gas ist für das Leben der Fische besonders wichtig?</question>
-			<answer0>Kohlendioxid</answer0>
-			<answer1>Schwefeldioxid</answer1>
-			<answer2>Sauerstoff</answer2>
+			<question>2. Zu welcher Fischgruppe gehört der Karpfen?</question>
+			<answer0>zu den Knorpelfischen</answer0>
+			<answer1>zu den Schmelzschuppern</answer1>
+			<answer2>zu den echten Knochenfischen</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>3. Welche physikalische Eigenschaft des Wassers beeinflusst seine Dichte?</question>
-			<answer0>die Wassertrübung</answer0>
-			<answer1>die Wasserströmung</answer1>
+			<question>3. Salmoniden haben eine Fettflosse. Welche Aussage ist richtig?</question>
+			<answer0>sie ist strahlenlos</answer0>
+			<answer1>sie hat Weichstrahlen</answer1>
+			<answer2>sie hat Stachelstrahlen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>4. Wo laicht der Atlantische Lachs?</question>
+			<answer0>im Salzwasser</answer0>
+			<answer1>im Süßwasser</answer1>
+			<answer2>im Brackwasser</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>5. Welcher Fisch besitzt Stachelstrahlen in den Rückenflossen?</question>
+			<answer0>Flussbarsch</answer0>
+			<answer1>Regenbogenforelle</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>6. Welche Fische zählen im Süßwasser zu den Schmelzschuppern?</question>
+			<answer0>die Lachsartigen</answer0>
+			<answer1>die Störartigen</answer1>
+			<answer2>die Barschartigen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>7. Welcher Fisch hat bauchständige Bauchflossen?</question>
+			<answer0>Blei</answer0>
+			<answer1>Barsch</answer1>
+			<answer2>Quappe</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>8. Welcher Fisch hat brustständige Bauchfloosen?</question>
+			<answer0>Aal</answer0>
+			<answer1>Koppe</answer1>
+			<answer2>Quappe</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>9. Welcher Fisch hat einen Sägestrahl in der Rückenflosse?</question>
+			<answer0>Forelle</answer0>
+			<answer1>Karpfen</answer1>
+			<answer2>Flussbarsch</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>10. Worin besteht die Hauptaufgabe der Bauchflossen?</question>
+			<answer0>Steuerung</answer0>
+			<answer1>Fortbewegung</answer1>
+			<answer2>Stabilisierung</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>11. Welcher Fisch hat keine Schwimmblase?</question>
+			<answer0>Wels</answer0>
+			<answer1>Mühlkoppe</answer1>
+			<answer2>Schlammpeitzger</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>12. Bei welchen Fischen kommt Hautatmung überwiegend vor?</question>
+			<answer0>bei Bodenfischen</answer0>
+			<answer1>bei frisch geschlüpften Fischen (Fischlarven)</answer1>
+			<answer2>bei erkrankten Fischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>13. Welcher  Fisch hat kehlständige Bauchflossen?</question>
+			<answer0>Karpfen</answer0>
+			<answer1>Flussbarsch</answer1>
+			<answer2>Quappe</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>14. Welcher Fisch ist hochrückig?</question>
+			<answer0>Döbel</answer0>
+			<answer1>Blei</answer1>
+			<answer2>Barbe</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>15. Welche Aufgabe hat die Rückenflosse?</question>
+			<answer0>Fortbewegung</answer0>
+			<answer1>Stabilisierung der Körperhaltung</answer1>
+			<answer2>Steuerung</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>16. Welcher Fisch hat drei Rückenflossen?</question>
+			<answer0>Blei</answer0>
+			<answer1>Dorsch</answer1>
+			<answer2>Barsch</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>18. Welcher Fisch hat keine Bauchflossen?</question>
+			<answer0>Wels</answer0>
+			<answer1>Aal</answer1>
+			<answer2>Schleie</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>17. Welcher Fisch benötigt am wenigsten Sauerstoff?</question>
+			<answer0>Aal</answer0>
+			<answer1>Karpfen</answer1>
+			<answer2>Karausche</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>19. Zu welcher Fischgruppe gehören die meisten heimischen Süsswasserfische?</question>
+			<answer0>Schmelzschupper</answer0>
+			<answer1>Knorpelfische</answer1>
+			<answer2>Knochenfische</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>20. Welche Fischfamilie ist besonders sauerstoffbedürftig?</question>
+			<answer0>Karpfenartige</answer0>
+			<answer1>Lachsartige</answer1>
+			<answer2>Barschartige</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>21. Welcher Art fehlen die Brust- und Bauchflossen?</question>
+			<answer0>Aal</answer0>
+			<answer1>Stichling</answer1>
+			<answer2>Neunauge</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>22. Welcher Fisch hat 10 Barteln?</question>
+			<answer0>Gründling</answer0>
+			<answer1>Steinbeisser</answer1>
+			<answer2>Schlammpeitzker</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>23. Wovon hängt die Zahl der Herzschläge bei Fischen ab?</question>
+			<answer0>vom pH-Wert des Wassers</answer0>
+			<answer1>von der Wassertemperatur</answer1>
+			<answer2>vom SBV-Wert</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>24. Welche Temperatur hat das Blut der Fische?</question>
+			<answer0>35-36°C</answer0>
+			<answer1>etwa die Wassertemperatur</answer1>
+			<answer2>10-13°C</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>25. Welches Sinnesorgan steuert die Anpassung der Farbe von Fischen an den Standort?</question>
+			<answer0>Seitenlinie</answer0>
+			<answer1>Gehör</answer1>
+			<answer2>Auge</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>26. Woher kommt die Bezeichnung Neunauge?</question>
+			<answer0>von den 9 Augen</answer0>
+			<answer1>von 1 Auge und 8 Kiemenöffnungen</answer1>
+			<answer2>von 1 Nasenloch, 1 Auge, 7 Kiemenöffnungen (beiderseits sichtbar)</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>27. Durch welche Gruppe sind Rundmäuler im Süsswasser vertreten?</question>
+			<answer0>durch die Knorpelfische</answer0>
+			<answer1>durch die Neunaugen</answer1>
+			<answer2>durch die Schmelzschupper</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>28. Querder sind...?</question>
+			<answer0>die Larven der Quappen</answer0>
+			<answer1>die Larven der Neunaugen</answer1>
+			<answer2>die Larven der Welse</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>29. Das Blut welcher Fische sollte wegen seiner Reizstoffedie nicht in unsere Augen geraten?</question>
+			<answer0>Karpfen und Hecht</answer0>
+			<answer1>Wels und Aal</answer1>
+			<answer2>Forellen und Saiblinge</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>30. Bei welchen Fischen findet man Pylorusanhänge am Darmeingang?</question>
+			<answer0>bei Lachsartigen</answer0>
+			<answer1>bei Karpfenartigen</answer1>
+			<answer2>bei Hechten</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>32. Welche Farbe hat die gefüllte Gallenblase?</question>
+			<answer0>dunkelbraun</answer0>
+			<answer1>dunkelgrün</answer1>
+			<answer2>schwarz</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>31. Welche Farbe hat die Leber gesunder Fische? (Ausnahme: Hecht und Quappe)</question>
+			<answer0>rotbraun</answer0>
+			<answer1>gelblich</answer1>
+			<answer2>blauschwarz</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>33. Welcher Fisch hat keinen Magen?</question>
+			<answer0>Karpfen</answer0>
+			<answer1>Barsch</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>34. Wo liegen beim Fisch die Nieren?</question>
+			<answer0>in der Mitte der Bauchhöhle</answer0>
+			<answer1>in der unteren Bauchhöhle</answer1>
+			<answer2>unterhalb entlang der Wirbelsäule</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>35. Wo liegt das Gehirn bei  Fischen?</question>
+			<answer0>Fische haben noch kein Gehirn</answer0>
+			<answer1>zwischen Augenhinterrand und Schädeldecke</answer1>
+			<answer2>es wandert im Lauf der Entwicklung von der linken auf die rechte Körperseite</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>36. Welche Aufgabe erfüllt das Seitenlinienorgan?</question>
+			<answer0>es stimuliert das Paarungsverhalten</answer0>
+			<answer1>es ist ein Ferntastsinn</answer1>
+			<answer2>es ist ein äußeres Geschlechtsmerkmal</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>37. Müssen alle mit der Angel gefangenen Fischarten vor dem Töten betäubt werden?</question>
+			<answer0>ja</answer0>
+			<answer1>ja, außer Trophäenfische</answer1>
+			<answer2>ja, außer Aal und Plattfischen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>38. Können unsere heimischen Angelfische Farben unterscheiden?</question>
+			<answer0>ja</answer0>
+			<answer1>nein</answer1>
+			<answer2>manche Arten</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>39. Wie nennt man den Samen männlicher Fische?</question>
+			<answer0>Laich</answer0>
+			<answer1>Milch</answer1>
+			<answer2>Rogen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>41. Wie bezeichnet man abgelegte Fischeier?</question>
+			<answer0>Rogen</answer0>
+			<answer1>Laich</answer1>
+			<answer2>Milch</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>40. Wie bezeichnet man die Eier im Fischkörper?</question>
+			<answer0>Gelege</answer0>
+			<answer1>Rogen</answer1>
+			<answer2>Milch</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>42. In welchem Alter werden Karpfen gewöhlich geschlechtsreif?</question>
+			<answer0>Milchner im 2.; Rogner im 3. Lebensjahr</answer0>
+			<answer1>Milchner im 3.; Rogner im 2. Lebensjahr</answer1>
+			<answer2>Milchner im 3.; Rogner im 4. Lebensjahr</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>43. Welcher Rogen verursacht Brechdurchfall und ist ungenießbar?</question>
+			<answer0>Rogen der Nase</answer0>
+			<answer1>Rogen der Barbe</answer1>
+			<answer2>Rogen des Welses</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>44. Bei welcher Fischart sind die Eierstöcke zusammengewachsen?</question>
+			<answer0>Flussbarsch</answer0>
+			<answer1>Karpfen</answer1>
+			<answer2>Bachforelle</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>45. Wo erfolgt die Besamung der Fischeier bei den heimischen Süsswasserfischen?</question>
+			<answer0>außerhalb des Körpers</answer0>
+			<answer1>innerhalb des Körpers</answer1>
+			<answer2>unterschiedlich je nach Art</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>46. Welche Fische sind Frühjahreslaicher?</question>
+			<answer0>Hecht und Äsche</answer0>
+			<answer1>Döbel und Barbe</answer1>
+			<answer2>Bachforelle und Bachsaibling</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>47. Welcher Fisch laicht im Herbst oder Winter?</question>
+			<answer0>Bachforelle</answer0>
+			<answer1>Karpfen</answer1>
+			<answer2>Zander</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>48. Welche Fischart laicht im Kies?</question>
+			<answer0>Äsche</answer0>
+			<answer1>Hecht</answer1>
+			<answer2>Barsch</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>49. Welche Fischart laicht im Kraut?</question>
+			<answer0>Seeforelle</answer0>
+			<answer1>Karpfen</answer1>
+			<answer2>Koppe</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>50. Welche Fische sind typische Freiwasserlaicher?</question>
+			<answer0>Schleien</answer0>
+			<answer1>Maränen</answer1>
+			<answer2>Barben</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>51. Was ist typisch für den Flussbarsch?</question>
+			<answer0>er klebt seine Eier in Klumpen an Steine und Wurzeln</answer0>
+			<answer1>er klebt seine Eier in Form langer Gürtelschnüre</answer1>
+			<answer2>er legt seine Eier in Bodenmulden</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>52. Was bestimmt vorrangig die Eientwicklung nach dem Ablaichen?</question>
+			<answer0>der Sauerstoffgehalt des Wassers</answer0>
+			<answer1>der pH-Wert</answer1>
 			<answer2>die Wassertemperatur</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>4. Wann hat Wasser die größte Dichte?</question>
-			<answer0>bei 0°C</answer0>
-			<answer1>bei 4°C</answer1>
-			<answer2>bei 10°C</answer2>
+			<question>53. Wie kann man aus der Tagesgradzahl die Entwicklungsdauer der Fischeier errechnen?</question>
+			<answer0>mit der Wassertemperatur multiplizieren</answer0>
+			<answer1>durch die Wassertemperatur dividieren</answer1>
+			<answer2>mit dem pH-Wert multiplizieren</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>5. Wodurch entsteht eine Wassertrübung?</question>
-			<answer0>durch den pH-Wert</answer0>
-			<answer1>durch den SBV-Wert</answer1>
-			<answer2>durch Schwebstoffe oder pflanzliches Plankton</answer2>
+			<question>54. Wie bezeichnet man Fische, die ihren Standort auch zur Laichzeit beibehalten?</question>
+			<answer0>Zugfische</answer0>
+			<answer1>Wanderfische</answer1>
+			<answer2>Standfische</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>6. Wann kommt es in stehenden Gewässern zu einer Vollzirkulation?</question>
-			<answer0>im Winter</answer0>
-			<answer1>im Frühjahr und Herbst</answer1>
-			<answer2>im Sommer</answer2>
+			<question>55. Welcher Fisch ist ein katadromer Wanderfisch?</question>
+			<answer0>Lachs</answer0>
+			<answer1>Aal</answer1>
+			<answer2>Meerforelle</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>7. Wie gelangt der Sauerstoff ins Wasser?</question>
-			<answer0>nur aus der Luft</answer0>
-			<answer1>nur über Wasserpflanzen</answer1>
-			<answer2>aus der Luft und durch Wasserpflanzen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>8. Wodurch wird die Menge des im Wasser gelösten Sauerstoffs vor allem beeinflusst?</question>
-			<answer0>durch den pH-Wert</answer0>
-			<answer1>durch die Wassertemperatur</answer1>
-			<answer2>durch den SBV-Wert</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>9. Was bewirkt zunehmende Wassertemperatur?</question>
-			<answer0>zunehmenden Sauerstoffgehalt</answer0>
-			<answer1>abnehmenden Sauerstoffgehalt</answer1>
-			<answer2>gleichbleibenden Sauerstoffgehalt</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>10. Welche Fische haben einen hohen Sauerstoffbedarf?</question>
-			<answer0>Forellenartige</answer0>
-			<answer1>Barschartige</answer1>
-			<answer2>Karpfenartige</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>11. Welcher Sauerstoffgehalt des Wassers ist für Forellen überlebensnotwendig?</question>
-			<answer0>mindestens 3 mg/l</answer0>
-			<answer1>mindestens 5 mg/l</answer1>
-			<answer2>mindestens 7 mg/l</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>12. Welcher Sauerstoffgehalt des Wasser ist für Karauschen überlebensnotwendig?</question>
-			<answer0>mindestens  3 mg/l</answer0>
-			<answer1>mindestens  5 mg/l</answer1>
-			<answer2>mindestens  7 mg/l</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>13. Welche pH-Werte bieten Fischen optimale Lebensbedingungen?</question>
-			<answer0>2-4</answer0>
-			<answer1>6-8</answer1>
-			<answer2>5-10</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>14. Welcher pH-Wert zeigt säurehaltiges Wasser an?</question>
-			<answer0>drei</answer0>
-			<answer1>sieben</answer1>
-			<answer2>elf</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>15. Wann nehmen Pflanzen Kohlendioxyd auf und geben Sauerstoff ab?</question>
-			<answer0>am Tage</answer0>
-			<answer1>nachts</answer1>
-			<answer2>Tag und Nacht</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>16. Sind Schwimmblattpflanzen im Boden verankert?</question>
-			<answer0>immer</answer0>
-			<answer1>manchmal</answer1>
-			<answer2>niemals</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>17. Was ist ein eutrophes Gewässer?</question>
-			<answer0>ein besonders nährstoffreiches</answer0>
-			<answer1>ein besonders nährstoffarmes</answer1>
-			<answer2>ein zeitweilig trockenliegendes</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>18. Welcher Fisch findet sich in der Forellenregion?</question>
-			<answer0>Schleie</answer0>
-			<answer1>Mühlkoppe</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>19. Welche Wassertemperatur ist für die Forellenregion kennzeichnend?</question>
-			<answer0>20°C</answer0>
-			<answer1>10°C</answer1>
-			<answer2>25°C</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>20. Welche kleinen Wassertiere gehören nicht zu den sogenannten Fischnährtieren?</question>
-			<answer0>Kleinkrebse</answer0>
-			<answer1>Kammmolche</answer1>
-			<answer2>Libellenlarven</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>21. Wo ist die Seeforelle heimisch?</question>
-			<answer0>in tiefen Flachlandseen</answer0>
-			<answer1>in Boddengewässern</answer1>
-			<answer2>in Vorgebirgsseen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>22. Welche Fischart lebt in der Äschenregion?</question>
-			<answer0>Wels</answer0>
-			<answer1>Kaulbarsch</answer1>
-			<answer2>Nase</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>23. Welches Fischnährtier ist für die Äschenregion typisch?</question>
-			<answer0>Wasserfloh</answer0>
-			<answer1>Köcherfliegenlarve (im Köcher)</answer1>
-			<answer2>Schlammröhrenwurm</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>24. Welche Fischart ist kein Fisch der Äschenregion?</question>
-			<answer0>Blei</answer0>
-			<answer1>Hasel</answer1>
-			<answer2>Elritze</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>26. Welche Wassertemperatur ist im Sommer für die Äschenregion typisch?</question>
-			<answer0>10°C</answer0>
-			<answer1>etwa 15-18°C</answer1>
-			<answer2>über 22°C</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>27. Wie ist die typische Beschaffenheit des Gewässergrundes in der Forellenregion?</question>
-			<answer0>steinig und felsig</answer0>
-			<answer1>kiesig</answer1>
-			<answer2>schlammig</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>25. Wie stark ist die Strömung in der Bleiregion?</question>
-			<answer0>sehr stark</answer0>
-			<answer1>keine vorhanden</answer1>
-			<answer2>gering</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>28. Welcher Fisch lebt nicht in der Bleiregion?</question>
-			<answer0>Hecht</answer0>
-			<answer1>Rotauge</answer1>
+			<question>56. Welcher Fisch ist ein anadromer Wanderfisch?</question>
+			<answer0>Lachs</answer0>
+			<answer1>Aal</answer1>
 			<answer2>Bachforelle</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>29. In welcher Gewässerregion finden wir die meisten Fischarten?</question>
-			<answer0>Bleiregion</answer0>
-			<answer1>Forellenregion</answer1>
-			<answer2>Barbenregion</answer2>
 			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>30. Welcher Fisch läßt sich in der Bleiregion finden?</question>
-			<answer0>Hasel</answer0>
-			<answer1>Wels</answer1>
-			<answer2>Elritze</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>31. Welches Nährtier lebt am Gewässergrund?</question>
-			<answer0>Wasserfloh</answer0>
-			<answer1>Schlammröhrenwurm</answer1>
-			<answer2>Hüpferling</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>32. Wo leben rote Zuckmückenlarven?</question>
-			<answer0>im Freiwasser</answer0>
-			<answer1>am Grund</answer1>
-			<answer2>an der Oberfläche</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>33. Was ist Sprock?</question>
-			<answer0>ein Kleinfisch der Kaulbarschregion</answer0>
-			<answer1>die Larve der Köcherfliege</answer1>
-			<answer2>ein Parasit</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>34. Welcher Fisch frisst hauptsächlich tierisches Plankton?</question>
-			<answer0>Hecht</answer0>
-			<answer1>Renke</answer1>
-			<answer2>Barsch</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>35. Welche Fischarten sollten nicht in die Forellenregion gelangen?</question>
-			<answer0>Groppen</answer0>
-			<answer1>Aale</answer1>
-			<answer2>Schmerlen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>36. Was ist der für den Menschen wichtigste Rohstoff</question>
-			<answer0>Erdöl</answer0>
-			<answer1>Gold</answer1>
-			<answer2>Wasser</answer2>
+			<question>57. Wo laichen Aale?</question>
+			<answer0>im Flussoberlauf</answer0>
+			<answer1>in der Nordsee</answer1>
+			<answer2>im Westatlantik</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>37. Warum wachsen Fische im Sommer gewöhnlich schneller als in der kalten Jahreszeit?</question>
-			<answer0>weil da das Wasser klarer ist</answer0>
-			<answer1>weil sie mehr Nahrung aufnehmen und der Stoffwechsel erhöht ist</answer1>
-			<answer2>weil sie abgelaicht haben</answer2>
+			<question>58. Was versteht man unter "Glasaalen"?</question>
+			<answer0>Satzaale</answer0>
+			<answer1>das dem "Weidenblattstadium" der Larven folgende Jugendstadium des Aales</answer1>
+			<answer2>abwandernde Aale</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>38. Wie hoch ist der Anteil von Süßwasser am Wasservorrat der Erde</question>
-			<answer0>knapp drei Prozent</answer0>
-			<answer1>elf Prozent</answer1>
-			<answer2>zweiundzwanzig Prozent</answer2>
+			<question>59. Was versteht man unter "Gelbaalen"?</question>
+			<answer0>Aale im Fressstadium</answer0>
+			<answer1>mit dem Golfstrom ankommende Aale</answer1>
+			<answer2>zum Laichen abwandernde Aale</answer2>
 			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>39. Wie hoch etwa ist der tägliche Wasserverbrauch eines Thüringers?</question>
-			<answer0>15 Liter</answer0>
-			<answer1>45 Liter</answer1>
-			<answer2>125 Liter</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>40. Bei wieviel Gramm Salz pro Liter sprechen wir von Salzwasser?</question>
-			<answer0>bei  über drei Gramm</answer0>
-			<answer1>über fünf Gramm</answer1>
-			<answer2>über zwanzig Gramm</answer2>
+			<question>60. Was sind "Blankaale"?</question>
+			<answer0>geräucherte Aale</answer0>
+			<answer1>zum Laichen abwandernde Aale</answer1>
+			<answer2>Aallarven</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>41. Wieviel Wasser entweicht täglich in den Weltraum?</question>
-			<answer0>etwa 275 Milliarden Tonnen</answer0>
-			<answer1>600 Millionen Tonnen</answer1>
-			<answer2>kein Wasserverlust</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>42. Was benötigen Wasserpflanzen zur Sauerstofferzeugung?</question>
-			<answer0>hinreichend erwärmtes Wasser</answer0>
-			<answer1>Licht</answer1>
-			<answer2>ph-Werte über 7</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>43. Wie gelangt Sauerstoff ins Wasser?</question>
-			<answer0>durch den Gasaustausch in den Kiemen der Fische</answer0>
-			<answer1>durch die Assimilation der Unterwasserpflanzen  und den Eintrag aus der Luft</answer1>
-			<answer2>durch Zersetzungsprozesse</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>44. Welche Region ist besonders sauerstoffreich?</question>
-			<answer0>Brackwasserregion?</answer0>
-			<answer1>Bleiregion</answer1>
-			<answer2>Forellenregion</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>45. Welche Pflanzen tragen zur Anreicherung des Wassers mit Sauerstoff besonders bei?</question>
-			<answer0>Überwasserpflanzen</answer0>
-			<answer1>Schwimmblattpflanzen</answer1>
-			<answer2>Unterwasserpflanzen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>46. Welche Pflanze gehört zu den Unterwasserpflanzen?</question>
-			<answer0>Schilf</answer0>
-			<answer1>Teichlinse</answer1>
-			<answer2>Quellmoos</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>47. Welche Pflanzen sind Überwasserpflanzen?</question>
-			<answer0>Segge, Igelkolben</answer0>
-			<answer1>Wasserstern, Hornkraut</answer1>
-			<answer2>Tausendblatt, Quellmoos</answer2>
+			<question>61. Was trifft für Aale zu, die zum Laichen abwandern?</question>
+			<answer0>die Bauchseite ist silbrig-weiss</answer0>
+			<answer1>sie sind besonders beißfreudig</answer1>
+			<answer2>die Bauchseite ist gelblich gefärbt</answer2>
 			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>48. Welche Pflanzen sind Schwimmblattpflanzen?</question>
-			<answer0>Schilf, Rohr</answer0>
-			<answer1>Seerosen</answer1>
-			<answer2>Wasserpest</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>49. Was ist die Wasserpest?</question>
-			<answer0>eine Fischkrankheit</answer0>
-			<answer1>eine Unterwasserpflanze</answer1>
-			<answer2>eine Wasserverunreinignug</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>50. Was versteht man unter Wasserblüte?</question>
-			<answer0>ein blühendes Seerosenfeld</answer0>
-			<answer1>die Entwicklung von Schwebalgen</answer1>
-			<answer2>eine Blütenstaubablagerung</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>51. Was ist ein Altwasser?</question>
-			<answer0>ein abgetrennter früherer Flussarm</answer0>
-			<answer1>ein See mit unsauberem Wasser</answer1>
-			<answer2>ein Gewässer mit hohem Altfischbestand</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>52. Was kennzeichnet einen Zandersee?</question>
-			<answer0>klar, kühl, tief</answer0>
-			<answer1>klar, kalt, nährstoffarm</answer1>
-			<answer2>nährstoffreich, trüb, unterschiedlich tief</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>53. Was kennzeichnet einen Renkensee?</question>
-			<answer0>flach, trüb, sauerstoffarm</answer0>
-			<answer1>flach, warm, nährstoffreich</answer1>
-			<answer2>tief, nährstoffarm</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>54. Welcher Fisch zeigt gute Wasserqualität an?</question>
-			<answer0>Schleie</answer0>
-			<answer1>Elritze</answer1>
-			<answer2>Wels</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>55. Welcher Fisch lebt gern am Gewässergrund?</question>
-			<answer0>Mairenke</answer0>
-			<answer1>Blei</answer1>
-			<answer2>Rotfeder</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>56. Welcher Fisch lebt in der Freiwasserzone?</question>
-			<answer0>Aal</answer0>
-			<answer1>Felchen</answer1>
-			<answer2>Blei</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>57. Welcher Fisch lebt in Hochgebirgsseen?</question>
-			<answer0>Wels</answer0>
-			<answer1>Barbe</answer1>
-			<answer2>Elritze</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>58. Welcher Fisch bevorzugt die flache Seeuferzone?</question>
-			<answer0>Saibling</answer0>
-			<answer1>Zander</answer1>
+			<question>62. Welche Art zeigt eine Vorstufe der Brutpflege?</question>
+			<answer0>Stichling</answer0>
+			<answer1>Forelle</answer1>
 			<answer2>Hecht</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>59. Darf man Wasserpflanzen beliebig entfernen?</question>
-			<answer0>nur im Frühherbst</answer0>
-			<answer1>nein</answer1>
-			<answer2>jederzeit</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>60. Welcher Fisch ist ein Laichräuber?</question>
-			<answer0>Quappe</answer0>
-			<answer1>Plötze</answer1>
+			<question>63. Welcher Fisch hat eine zweikammerige Schwimmblase?</question>
+			<answer0>Hecht</answer0>
+			<answer1>Mühlkoppe</answer1>
 			<answer2>Karpfen</answer2>
-			<rightAnswer>0</rightAnswer>
+			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>61. Welcher Fisch ist kein Laichräuber?</question>
+			<question>64. Welche Art betreibt echte Brutpflege?</question>
 			<answer0>Regenbogenforelle</answer0>
-			<answer1>Aal</answer1>
-			<answer2>Hasel</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>62. Welcher Fisch benötigt eine besonders gute Wasserqualität?</question>
-			<answer0>Karausche</answer0>
-			<answer1>Bachforelle</answer1>
-			<answer2>Aal</answer2>
+			<answer1>Stichling</answer1>
+			<answer2>Hecht</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>63. Was deutet auf Sauerstoffmangel hin?</question>
-			<answer0>Fische beißen nicht</answer0>
-			<answer1>Fische springen aus dem Wasser</answer1>
-			<answer2>Fische schnappen an der Oberfläche nach Luft</answer2>
+			<question>65. Welche Art baut ein Nest?</question>
+			<answer0>Bitterling</answer0>
+			<answer1>Stichling</answer1>
+			<answer2>Mühlkoppe</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>66. Wer baut das Nest der Stichlinge?</question>
+			<answer0>Rogner</answer0>
+			<answer1>Milchner</answer1>
+			<answer2>beide</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>67. Eine Vorstufe der Brutpflege betreibt das Weibchen der Bitterlinge. Es legt seine Eier...</question>
+			<answer0>zwischen Steine</answer0>
+			<answer1>in die Atemhöhle der Teichmuschel</answer1>
+			<answer2>in eine tiefe Laichgrube</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>68. Welche Fische sollen zum Besatz in natürlichen Gewässern verwendet werden?</question>
+			<answer0>möglichst junge Fische</answer0>
+			<answer1>möglichst laichfähige Fische</answer1>
+			<answer2>möglichst fangfähige Fische</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>69. Wie wird die Besatzmenge ausgewiesen?</question>
+			<answer0>pro Hektar und Jahr</answer0>
+			<answer1>pro Hektar und alle 5 Jahre</answer1>
+			<answer2>pro Hektar und alle 10 Jahre</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>70. Wie soll der Besatz mit Äschen und Forellen erfolgen?</question>
+			<answer0>nur mit Brut</answer0>
+			<answer1>mit Brut und Setzlingen</answer1>
+			<answer2>mit fangfähigen Fischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>71. Was sollte beim Hechtbesatz bedacht werden?</question>
+			<answer0>Männchen und Weibchen sind immer paarweise auszusetzen</answer0>
+			<answer1>die Zahl einsömmriger Hechte sollte über 100 St./ha betragen, da sie zum Kannibalismus neigen</answer1>
+			<answer2>die Verteilung sollte über möglichst viele geeignete Uferstellen erfolgen</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>64. Welcher Fisch ist nach Thüringen eingeschleppt worden?</question>
+			<question>72. Welche Fischkrankheit ist auf den Menschen übertragbar?</question>
+			<answer0>Fischbandwurm</answer0>
+			<answer1>Furunkulose der Forellen</answer1>
+			<answer2>Fischpocken</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>73. Bei welcher Fischfamilie fehlt der Magen?</question>
+			<answer0>Lachsartigen</answer0>
+			<answer1>Karpfenartigen</answer1>
+			<answer2>Barschartigen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>74. Welche Fische werden bevorzugt von der Drehkrankheit befallen?</question>
+			<answer0>Regenbogenforellen</answer0>
+			<answer1>Karpfen</answer1>
+			<answer2>Schleien</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>75. Welches Krankheitsbild zeigen Fische im akuten Stadium der Drehkrankheit?</question>
+			<answer0>Hautentzündungen</answer0>
+			<answer1>drehförmige Schwimmbewegungen</answer1>
+			<answer2>Mopsgesicht</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>76. Welche Fische werden besonders von Bandwürmern befallen?</question>
+			<answer0>Karpfenartige</answer0>
+			<answer1>Barschartige</answer1>
+			<answer2>Lachsartige</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>77. Wie gross werden Kiemenkrebse?</question>
+			<answer0>1-2mm</answer0>
+			<answer1>2-4mm</answer1>
+			<answer2>4-6mm</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>78. Wie gross werden Fischläuse?</question>
+			<answer0>höchstens 8mm</answer0>
+			<answer1>bis 13mm</answer1>
+			<answer2>über 18mm</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>79. Welche Parasiten benötigen zur Entwicklung einen Zwischenwirt?</question>
+			<answer0>Kiemenkrebs</answer0>
+			<answer1>Kratzer</answer1>
+			<answer2>Karpfenlaus</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>80. In welcher Jahreszeit tritt die Fleckenseuche der Weissfische bevorzugt auf?</question>
+			<answer0>Frühjahr</answer0>
+			<answer1>Herbst</answer1>
+			<answer2>Winter</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>81. Wann tritt die akute Bauchwassersucht der Karpfen bevorzugt auf?</question>
+			<answer0>im Herbst</answer0>
+			<answer1>im Winter</answer1>
+			<answer2>im Frühjahr</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>82. Wo fressen Fische mit unterständigen Maul vorwiegend?</question>
+			<answer0>am Grund</answer0>
+			<answer1>im Mittelwasser</answer1>
+			<answer2>an der Oberfläche</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>83. Welcher Fisch hat einen torpedoförmigen Körper?</question>
 			<answer0>Bachforelle</answer0>
-			<answer1>Zwergwels</answer1>
-			<answer2>Döbel</answer2>
+			<answer1>Karpfen</answer1>
+			<answer2>Blei</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>84. Wo sitzt die Rückenflosse beim Hecht?</question>
+			<answer0>weit vorn</answer0>
+			<answer1>weit hinten</answer1>
+			<answer2>in der Mitte</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>65. Welcher Fisch gilt als in Thüringen heimisch?</question>
-			<answer0>Atlantischer Lachs</answer0>
-			<answer1>Regenbogenforelle</answer1>
-			<answer2>Bachsaibling</answer2>
-			<rightAnswer>2</rightAnswer>
+			<question>85. Welcher Fisch hat außer den Lachsartigen eine Fettflosse?</question>
+			<answer0>der Zwergwels</answer0>
+			<answer1>der Barsch</answer1>
+			<answer2>der Karpfen</answer2>
+			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>66. Welcher Fisch gehört nicht zu den heimischen Fischen?</question>
-			<answer0>Kaulbarsch</answer0>
-			<answer1>Mühlkoppe</answer1>
-			<answer2>Bachsaibling</answer2>
-			<rightAnswer>2</rightAnswer>
+			<question>86. Welche Schuppen hat die Mehrzahl der heimischen Süsswasserfische?</question>
+			<answer0>Rundschuppen</answer0>
+			<answer1>Kammschuppen</answer1>
+			<answer2>Schmelzschuppen</answer2>
+			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>67. Warum ist eine übermässige Entwicklung von Überwasserpflanzen unerwünscht?</question>
-			<answer0>wegen starker Blütenstaubentwicklung</answer0>
-			<answer1>wegen erschwerter Angelbedingungen</answer1>
-			<answer2>wegen Verlandungsgefahr</answer2>
-			<rightAnswer>2</rightAnswer>
+			<question>87. Was kann mit Hilfe der Schuppen bestimmt werden?</question>
+			<answer0>das Alter</answer0>
+			<answer1>das Geschlecht</answer1>
+			<answer2>die Grösse</answer2>
+			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>68. Wo ist ein Gewässer besonders nährstoffreich?</question>
-			<answer0>in der Freiwasserzone</answer0>
-			<answer1>in der Uferzone</answer1>
-			<answer2>in der Tiefenzone</answer2>
+			<question>88. Welche Fischarten haben Laichausschlag?</question>
+			<answer0>Weißfische</answer0>
+			<answer1>Forellenartige</answer1>
+			<answer2>Neunaugen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>89. Welcher Fisch hat Schlundzähne?</question>
+			<answer0>die Bachforelle</answer0>
+			<answer1>der Karpfen</answer1>
+			<answer2>der Hecht</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>69. Wo kommt reines Wasser vor</question>
-			<answer0>als Gletscherwasser</answer0>
-			<answer1>in der Tiefsee</answer1>
-			<answer2>nirgendwo in der Natur</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>70. Welches Wasser ist sauerstoffarm?</question>
-			<answer0>Quellwasser</answer0>
-			<answer1>Flusswasser</answer1>
-			<answer2>Teichwasser</answer2>
+			<question>90. Welche Flossen sind paarig?</question>
+			<answer0>Brust- und Bauchflossen</answer0>
+			<answer1>Schwanz- und Afterflossen</answer1>
+			<answer2>Rückenflossen</answer2>
 			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>71. Bis zu welcher Wassertiefe können grüne Pflanzen leben?</question>
-			<answer0>bis zur Lichtgrenze</answer0>
-			<answer1>bis zu jeder Tiefe, soweit der Wasserdruck nicht zu stark ist</answer1>
-			<answer2>bis zu jeder Tiefe bei entsprechenden Wassertemperaturen</answer2>
+			<question>91. Wann dauert die Entwicklung der Fischeier am längsten?</question>
+			<answer0>bei Winterlaichern</answer0>
+			<answer1>bei Sommerlaichern</answer1>
+			<answer2>bei Krautlaichern</answer2>
 			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>72. Womit beginnt die Nahrungskette in Gewässern?</question>
-			<answer0>mit Insektenlarven</answer0>
-			<answer1>mit kleinen Fischen</answer1>
-			<answer2>mit ein- und mehrzelligen Algen</answer2>
-			<rightAnswer>2</rightAnswer>
+			<question>92. Welcher Fisch hat eine deutlich unsymmetrische Schwanzflosse?</question>
+			<answer0>Stör</answer0>
+			<answer1>Koppe</answer1>
+			<answer2>Schleie</answer2>
+			<rightAnswer>0</rightAnswer>
 		</item>
 		<item>
-			<question>73. Wo leben in Gebirgsbächen die meisten Fischnährtiere?</question>
-			<answer0>an der Wasseroberfläche</answer0>
-			<answer1>am Gewässergrund</answer1>
-			<answer2>frei im Wasser schwimmend</answer2>
+			<question>93. Woran erkennt man den männlichen Krebs?</question>
+			<answer0>er hat kleinere Scheren</answer0>
+			<answer1>an den Griffelbeinen</answer1>
+			<answer2>an den längeren Schreitbeinen</answer2>
 			<rightAnswer>1</rightAnswer>
 		</item>
 		<item>
-			<question>74. Aus welchem Grund schwimmt Eis auf dem Wasser?</question>
-			<answer0>sein spezifisches Gewicht ist geringer als das des Wassers</answer0>
-			<answer1>weil stets Luft eingeschlossen ist</answer1>
-			<answer2>der Strömungsdruck treibt es nach oben</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>75. Welche Fließwasserregion ist am besten mit Sauerstoff versorgt?</question>
-			<answer0>Bleiregion</answer0>
-			<answer1>Barbenregion</answer1>
-			<answer2>Forellenregion</answer2>
+			<question>94. Wovon ernährt sich vorwiegend der Blei?</question>
+			<answer0>von Pflanzen</answer0>
+			<answer1>von Fischen</answer1>
+			<answer2>von Kleinlebewesen</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>76. Welche Pflanze bildet an der Wasseroberfläche schwimmende Blätter aus?</question>
-			<answer0>Rohrkolben</answer0>
-			<answer1>Wasserpest</answer1>
-			<answer2>Gelbe Mummel</answer2>
+			<question>95. Woran ist im Alter die männliche Bachforelle zu erkennen?</question>
+			<answer0>an der starken Rückenflosse</answer0>
+			<answer1>an verdickten Bauchflossen</answer1>
+			<answer2>am Laichhaken</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>77. Was ist ein oligotrophes Gewässer?</question>
-			<answer0>ein sehr nährstoffreiches Gewässer</answer0>
-			<answer1>ein stark verlandetes Gewässer</answer1>
-			<answer2>ein nährstoffarmes Gewässer</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>78. Was gilt als Teich?</question>
-			<answer0>ein kleiner natürlicher See</answer0>
-			<answer1>ein absperrbares, ablassbares, künstlich angelegtes Gewässer</answer1>
-			<answer2>ein geschlossenes Buhnenfeld</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>79. Was nennt man Tümpel?</question>
-			<answer0>kleinere stehende Gewässer, die zeitweise trockenfallen</answer0>
-			<answer1>Kleingewässer mit hohem Frosch- und Krötenbestand</answer1>
-			<answer2>durch Abwässer der Landwirtschaft vergiftete Kleingewässer</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>80. Wodurch ist ein nahrungsarmer See gekennzeichnet?</question>
-			<answer0>sein Tiefenwasser hat einen hohen Sauerstoffgehalt</answer0>
-			<answer1>sein Tiefenwasser ist sauerstoffarm</answer1>
-			<answer2>er hat grosse Fäulnisablagerungen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>81. Wann kommt es im Wärmehaushalt eines Sees zu einer Schichtung?</question>
-			<answer0>im Sommer</answer0>
-			<answer1>im Frühjahr</answer1>
-			<answer2>im Herbst</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>82. Was ist für einen nährstoffreichen (eutrophen) See charakteristisch?</question>
-			<answer0>im Sommer entwickeln sich grosse Mengen Schwebealgen</answer0>
-			<answer1>das Tiefenwasser ist sauerstoffreich</answer1>
-			<answer2>am Gewässerboden lagern sich kaum Fäulnisstoffe ab</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>83. Welche Art lebt bevorzugt in der Bodenzone eines Gewässers?</question>
-			<answer0>Blei</answer0>
-			<answer1>Zander</answer1>
-			<answer2>Kleine Maräne</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>84. Welcher Fisch bevorzugt die pflanzenbewachsene Uferzone eines stehenden Gewässers?</question>
-			<answer0>Zander</answer0>
-			<answer1>Äsche</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>85. Welcher Fisch lebt in der Freiwasserzone eines Sees?</question>
-			<answer0>Schleie</answer0>
-			<answer1>Felche</answer1>
-			<answer2>Aal</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>86. Welche Fischart laicht in der Freiwasserzone von Seen?</question>
-			<answer0>Kleine Maräne</answer0>
-			<answer1>Regenbogenforelle</answer1>
-			<answer2>Barsch</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>87. Welche Fischart kommt nicht in Hochgebirgsseen vor?</question>
-			<answer0>Elritze</answer0>
-			<answer1>Stör</answer1>
-			<answer2>Seeforelle</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>88. Wovon ernährt sich die erwachsene Schleie hauptsächlich?</question>
-			<answer0>von Plankton</answer0>
-			<answer1>von Anflugnahrung</answer1>
-			<answer2>von Bodennahrung</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>89. Der Blei ist überwiegend...</question>
-			<answer0>ein Pflanzenfresser</answer0>
-			<answer1>ein Kleintierfresser</answer1>
-			<answer2>ein Raubfisch</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>90. Welcher Fisch ist nicht in der Forellenregion vertreten?</question>
-			<answer0>Wels</answer0>
-			<answer1>Mühlkoppe</answer1>
-			<answer2>Elritze</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>91. Welcher Fisch ist in der Forellenregion nicht schädlich?</question>
-			<answer0>Döbel</answer0>
-			<answer1>Elritze</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>92. Welche Algenart verurscht die sogenannte Wasserblüte?</question>
-			<answer0>Kieselalge</answer0>
-			<answer1>Blaualge</answer1>
-			<answer2>Geißelalge</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>93. Welche Pflanze reichert das Wasser besonders mit Sauerstoff an?</question>
-			<answer0>Quellmoos</answer0>
-			<answer1>Teichrose</answer1>
-			<answer2>Binse</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>94. Welche Strömung herrscht in der Kaulbarschregion?</question>
-			<answer0>eine geringe und wechselnde</answer0>
-			<answer1>eine reissende</answer1>
-			<answer2>gar keine</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>95. Welche Tierart ist als Fischnährtier anzusprechen?</question>
-			<answer0>Fischegel</answer0>
-			<answer1>Rückenschwimmer</answer1>
-			<answer2>Schlammröhrenwurm</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>96. Was zählt zum tierischen Plankton?</question>
-			<answer0>Hüpferlinge und Wasserflöhe</answer0>
-			<answer1>Zuckmückenlarven und Schlammröhrenwürmer</answer1>
-			<answer2>Eintags- und Steinfliegenlarven</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>97. Warum darf man in Krebsgewässer keine Aale aussetzen?</question>
-			<answer0>sie sind Nahrungskonkurrenten für Krebse</answer0>
-			<answer1>sie wachsen schlecht ab</answer1>
-			<answer2>sie fressen die "Butterkrebse"</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>98. Wie setzt man Hechtsömmerlinge aus?</question>
-			<answer0>paarweise in Ufernähe</answer0>
-			<answer1>im Freiwasser - sie suchen sich selbst einen günstigen Standort</answer1>
-			<answer2>vereinzelt an geeigneten Stellen im Uferbereich</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>99. Wie viele Glasaale wiegen 1kg?</question>
-			<answer0>ca. 3.000 Stück</answer0>
-			<answer1>ca. 5.000 Stück</answer1>
-			<answer2>ca. 500 Stück</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>100. Welche Raubfische sind hauptsächlich nachtaktiv?</question>
-			<answer0>Wels und Aal</answer0>
-			<answer1>Barsch und Zander</answer1>
-			<answer2>Döbel und Rapfen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-	</section>
-	<section name="Gerätekunde">
-		<item>
-			<question>1. Was ist zu beachten, um eine Teleskoprute schonend zu behandeln?</question>
-			<answer0>beim Auseinanderziehen Spitze zuletzt ausziehen</answer0>
-			<answer1>beim Zusammenschieben Spitze zuletzt einschieben</answer1>
-			<answer2>bei Nichtgebrauch möglichst in voller Länge aufbewahren</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>2. Für den Fang welcher Fische ist die Schnurstärke 0,15 mm gut geeignet?</question>
-			<answer0>große Döbel</answer0>
-			<answer1>Aale</answer1>
-			<answer2>Plötzen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>3. Für welche Angelmethode wird eine Pose (Schwimmer) verwendet?</question>
-			<answer0>Spinnfischen</answer0>
-			<answer1>Stippfischen</answer1>
-			<answer2>Streamerfischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>4. Welcher Teil der Stationärrolle ist für eine sichere Landung des Fisches am wichtigsten?</question>
-			<answer0>die Übersetzung, da sie ein schnelles Einholen des Fisches ermöglicht</answer0>
-			<answer1>die Rücklaufsperre, da sie ein versehentliches Schnurgeben unmöglich macht</answer1>
-			<answer2>die Schnurbremse, da sie ein Abreißen der Schnur bei richtiger Einstellung vermeidet</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>5. Auf welche Hakenart werden Fliegen gebunden?</question>
-			<answer0>Öhrhaken</answer0>
-			<answer1>Plättchenhaken</answer1>
-			<answer2>Goldhaken</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>6. Bei welcher Angelmethode werden kleine Wobbler verwendet?</question>
-			<answer0>beim leichten Fliegenfischen</answer0>
-			<answer1>beim leichten Grundangeln</answer1>
-			<answer2>beim leichten Spinnfischen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>7. Die Trockenfliege ist ein guter Köder für den Fang von...</question>
-			<answer0>Schleie</answer0>
-			<answer1>Aal</answer1>
-			<answer2>Äsche</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>8. Was bewirkt ein zwischen Schnur und Vorfach eingebundener Wirbel?</question>
-			<answer0>von ihm geht eine Lockwirkung aus</answer0>
-			<answer1>es werden Hänger vermieden</answer1>
-			<answer2>er verhindert das Verdrehen der Schnur</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>9. Welcher Gerätetest ist vor Beginn des Angelns am wichtigsten?</question>
-			<answer0>Zugprobe zur Prüfung der Festigkeit der ganzen Angelflucht</answer0>
-			<answer1>Prüfung der Hülsenverbindungen und der Rollenbefestigung</answer1>
-			<answer2>Prüfung der Schärfe der Hakenspitze und der Bleibeschwerung</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>10. An welcher Stelle der Einhand-Spinnrute ist die Rolle am Griffteil angebracht?</question>
-			<answer0>der Rollenhalter sitzt am Ende des Griffteils</answer0>
-			<answer1>der Rollenhalter sitzt in der Mitte des Griffteils</answer1>
-			<answer2>der Rollenhalter sitzt am vorderen Griffteil</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>11. Was ist ein Gaff?</question>
-			<answer0>ein Scherzname für das Echolot</answer0>
-			<answer1>ein Landehaken zum Bergen grosser Fische</answer1>
-			<answer2>ein Fernglas</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>12. Wie soll die Einstellung der Schnurbremse erfolgen?</question>
-			<answer0>im Einklang von Reißfestigkeit der Schnur und Bruchfestigkeit der Rute</answer0>
-			<answer1>erst dann, wenn ein Fisch angebissen hat</answer1>
-			<answer2>so, dass der Fisch keine Schnur abziehen kann</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>13. Welche Hauptgruppen künstlicher Fliegen sind zu unterscheiden?</question>
-			<answer0>grosse und kleine Fliegen</answer0>
-			<answer1>Trocken-, Nassfliegen und Streamer</answer1>
-			<answer2>vielfarbige und einfarbige Fliegen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>14. Wie soll ein Schnurknoten grundsätzlich beschaffen sein?</question>
-			<answer0>er soll möglichst klein sein und wenig auffallen</answer0>
-			<answer1>er soll sich möglichst leicht wieder lösen lassen</answer1>
-			<answer2>er darf sich nicht aufziehen und soll die Tragkraft der Schnur möglichst wenig reduzieren</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>15. Welche der nachstehenden Fische lassen sich gut mit einem Spinner fangen?</question>
-			<answer0>Blei und Güster</answer0>
-			<answer1>Schleie und Plötze</answer1>
-			<answer2>Flussbarsch und Zander</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>16. Welcher Schnurring der Rute ist am stärksten belastet?</question>
-			<answer0>der Spitzenring</answer0>
-			<answer1>alle Ringe</answer1>
-			<answer2>der erste Ring nach der Rolle</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>17. Wo sitzt der Rollenhalter bei einer Fliegenrute</question>
-			<answer0>vor der Wurfhand</answer0>
-			<answer1>hinter der Wurfhand</answer1>
-			<answer2>je nach Hersteller unterschiedlich</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>18. Für welche Fangmethode eignet sich die Stationärrolle besonders gut?</question>
-			<answer0>sie eignet sich gleich gut für alle Fangmethoden</answer0>
-			<answer1>für das Fliegenfischen</answer1>
-			<answer2>für die leichte und mittlere Spinnfischerei sowie das Grundangeln</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>19. Wodurch entsteht hauptsächlich Schnurdrall?</question>
-			<answer0>durch das Werfen gegen den Wind</answer0>
-			<answer1>durch das Einbinden eines Wirbels zwischen Hauptschnur und Vorfach</answer1>
-			<answer2>durch stark wirbelnde Köder</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>20. Wonach hat sich die Bremseinstellung an der Rolle zu richten?</question>
-			<answer0>nach der Schwere des zu erwartenden Fisches</answer0>
-			<answer1>nach der Grösse der Rollenspule</answer1>
-			<answer2>nach der Tragfähigkeit der Schnur</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>21. Was bedeutet die Hakenskala von 1-18</question>
-			<answer0>18 ist der grösste Haken</answer0>
-			<answer1>1 ist der grösste Haken</answer1>
-			<answer2>von 1-9 ist der Haken mit Widerhaken, von 10-18 ohne Widerhaken versehen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>22. Was bedeutet der Begriff "Nassfischen" beim Flugangeln?</question>
-			<answer0>Watfischen</answer0>
-			<answer1>Angeln bei Regenwetter</answer1>
-			<answer2>Angeln mit künstlicher Fliege unterhalb der Wasseroberfläche</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>23. Welche verschiedenen Hakenformen gibt es zum Anbinden der Schnur?</question>
-			<answer0>dick- und dünnschenklige Haken</answer0>
-			<answer1>Plättchen- und Öhrhaken</answer1>
-			<answer2>Flach- und Rundstahlhaken</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>24. Welches Posenmaterial hat den größten Auftrieb?</question>
-			<answer0>Hartholz</answer0>
-			<answer1>Hartschaum</answer1>
-			<answer2>Weichholz</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>25. Was ist ein Laufblei?</question>
-			<answer0>ein Lotblei</answer0>
-			<answer1>ein Lochblei</answer1>
-			<answer2>ein Vorläufer vor einem künstlichen Köder</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>26. Was ist eine Senke?</question>
-			<answer0>ein  Prüfgerät zur Feststellung von Unebenheiten am Gewässergrund</answer0>
-			<answer1>ein Lotblei</answer1>
-			<answer2>ein Netz zum Köderfischfang</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>27. Was ist ein typisches Merkmal eines Blinkers?</question>
-			<answer0>er taumelt</answer0>
-			<answer1>er dreht sich um die eigene Achse</answer1>
-			<answer2>er ist farbiger als ein Spinner</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>28. Was muss vor dem Auswerfen unbedingt überprüft werden?</question>
-			<answer0>Schnurführungsringe auf Risse, Schnur auf Abrieb und Rolle auf Bremseinstellung</answer0>
-			<answer1>die Messgenauigkeit der Fischwaage</answer1>
-			<answer2>das Vorhandensein von genügend Ködermaterial</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>29. Darf beim Friedfischangeln ein Zwillings- oder Drillingshaken verwendet werden?</question>
-			<answer0>nur bei bestimmten Fischarten</answer0>
-			<answer1>niemals</answer1>
-			<answer2>ja, wenn als Köder ein Stück Kartoffel verwendet wird</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>30. Was versteht man unter Teleskoprute?</question>
-			<answer0>eine Rute mit elektronischen Bissanzeiger</answer0>
-			<answer1>eine zusammenschiebbare Rute</answer1>
-			<answer2>jede mehrfach geteilte Rute mit Steckverbindungen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>31. Welche Aufgabe haben Rutenringe?</question>
-			<answer0>sie sollen Perückenbildungen verhindern</answer0>
-			<answer1>sie bremsen die Fliehkraft des Köders sanft ab</answer1>
-			<answer2>sie sollen die Schnur führen und den Druck auf die Rute gleichmäßig verteilen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>32. Bei welchem Rollentyp steht die Spulenachse längs (parallel) zur Rutenachse?</question>
-			<answer0>bei der Fliegenrolle</answer0>
-			<answer1>bei der Stationärrolle</answer1>
-			<answer2>bei der Multirolle</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>33. Welches Konstruktionsteil einer Angelrolle soll einen Schnurbruch  verhindern?</question>
-			<answer0>die Bremse</answer0>
-			<answer1>der Schnurfangbügel</answer1>
-			<answer2>die Rücklaufsperre</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>34. Bei welcher Angelmethode ist Anfüttern zweckmässig?</question>
-			<answer0>beim Grund- und Stippfischen</answer0>
-			<answer1>beim Spinnfischen</answer1>
-			<answer2>beim Fliegenfischen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>35. Bei welcher Schwimmermontage verwendet man einen Stopper?</question>
-			<answer0>bei feststehenden Schwimmern</answer0>
-			<answer1>bei gleitenden Schwimmern</answer1>
-			<answer2>bei der Wasserkugel</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>36. Wie vermeidet man beim Spinnfischen das Verdrehen der Schnur?</question>
-			<answer0>man verwendet ein starkes Stahlvorfach</answer0>
-			<answer1>man fettet die Schnur</answer1>
-			<answer2>man bringt einen oder mehrere Wirbel  an</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>37. Ein Schnurfangbügel ist kennzeichnend für...</question>
-			<answer0>die Fliegenrolle</answer0>
-			<answer1>die Multirolle</answer1>
-			<answer2>die Stationärrolle</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>38. Was tun, wenn die ersten Meter einer monofilen Kunstfaserschnur aufgeraut sind?</question>
-			<answer0>die aufgerauten Stellen mit einem eingefetteten Lederlappen glätten</answer0>
-			<answer1>das aufgeraute Schnurstück abschneiden</answer1>
-			<answer2>die aufgeraute Schnur mit farblosen Schnurlack überziehen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>39. Welchen Zweck erfüllt die Pose?</question>
-			<answer0>sie lässt den Köder in die gewünschte Tiefe absinken und zeigt den Biss an</answer0>
-			<answer1>sie verhindert Hänger</answer1>
-			<answer2>sie hat eine Lockwirkung auf die Fische</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>40. Wie beeinflussen Knoten die Tragfähigkeit der Angelschnur?</question>
-			<answer0>am Knoten ist die Tragfähigkeit am höchsten</answer0>
-			<answer1>Knoten beeinflussen die Tragfähigkeit nicht</answer1>
-			<answer2>am Knoten ist die Tragfähigkeit geringer</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>41. Was st ein Wobbler?</question>
-			<answer0>ein Gerät zur Rutenreinigung</answer0>
-			<answer1>ein künstlicher Köder für den Raubfischfang</answer1>
-			<answer2>ein Karpfenköder</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>42. Welche Länge soll eine Einhandspinnrute haben?</question>
-			<answer0>1,50 bis 2,10 m</answer0>
-			<answer1>2,40 bis 2,80 m</answer1>
-			<answer2>3,00 bis 5,00 m</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>43. Welche Geräte muss der Angelfischer beim Angeln unbedingt mit sich führen?</question>
-			<answer0>Kescher, Zentimetermass, Fischtöter, Hakenlöser, Messer</answer0>
-			<answer1>Ersatzrute, Wathose, Rutenhalter</answer1>
-			<answer2>Regenzeug, Bissanzeiger, Ersatzrolle</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>44. Wann ist die Prüfung der Knotenfestigkeit erforderlich?</question>
-			<answer0>vor jedem Angeln</answer0>
-			<answer1>spätestens nach einem Jahr</answer1>
-			<answer2>im Frühjahr nach der Winterpause</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>45. Wodurch unterscheidet sich ein Spinner von einem Blinker?</question>
-			<answer0>der Spinner ist leichter als der Blinker</answer0>
-			<answer1>der Spinner dreht sich um die eigene Achse</answer1>
-			<answer2>der Spinner ist farbiger als der Blinker</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>46. Welcher Grundsatz gilt bei der Zusammenstellung: Haken, Schnur, Rute?</question>
-			<answer0>großer Haken, starke Schnur, steife Spitze; kleiner Haken, dünne Schnur, weiche Spitze</answer0>
-			<answer1>großer Haken, dünne Schnur und steife Rute</answer1>
-			<answer2>kleiner Haken, starke Schnur und weiche Rute</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>47. Wozu dient die Löseschere oder Lösezange?</question>
-			<answer0>zum schonenden Herauslösen des Hakens aus dem Maul des gefangenen Fisches</answer0>
-			<answer1>zum Lösen des Hakens vom Stahlvorfach</answer1>
-			<answer2>zum Festhalten des Fisches beim Lösen des Angelhakens</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>48. Welche Art Rutenringe ist kennzeichnend für eine leichte Fliegenrute?</question>
-			<answer0>Rollerringe</answer0>
-			<answer1>Schlangenringe</answer1>
-			<answer2>Zweistegringe</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>49. Aus welchen Materialien werden Ruten heute hergestellt?</question>
-			<answer0>überwiegend aus Metall</answer0>
-			<answer1>überwiegend aus Naturmaterial</answer1>
-			<answer2>überwiegend aus künstlichen Werkstoffen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>50. Aus welchen Material werden gesplisste Ruten gefertigt?</question>
-			<answer0>aus Kohlefaser</answer0>
-			<answer1>aus Glasfiber</answer1>
-			<answer2>aus Tonkinrohr</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>51. Welchen Vorteil hat eine Kohlefaserrute?</question>
-			<answer0>sie ist besonders billig</answer0>
-			<answer1>sie ist besonders leicht</answer1>
-			<answer2>sie ist unzerbrechlich</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>52. Was versteht man bei einer Angel unter ihrer Aktion?</question>
-			<answer0>die Belastbarkeit der Rute</answer0>
-			<answer1>die Art der Durchbiegung unter Last</answer1>
-			<answer2>die Stärke der Rute</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>53. Welche Aktion hat eine Rute, die sich von der Spitze bis zum Griff unter Belastung biegt?</question>
-			<answer0>Parabolik-Aktion</answer0>
-			<answer1>Spitzen-Aktion</answer1>
-			<answer2>mittlere Aktion</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>54. Welche Aktion soll eine lange Teleskoprute für das Stippen haben?</question>
-			<answer0>mittlere Aktion</answer0>
-			<answer1>Parabolik-Aktion</answer1>
-			<answer2>Spitzen-Aktion</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>55. Wie wird das Wurfgewicht einer Rute angegeben?</question>
-			<answer0>in Milligramm</answer0>
-			<answer1>in Gramm</answer1>
-			<answer2>in Kilogramm</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>56. Welche Aktion haben Weitwurfruten (Brandungsruten)?</question>
-			<answer0>Spitzen-Aktion</answer0>
-			<answer1>mittlere Aktion</answer1>
-			<answer2>Parabolik-Aktion</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>57. Welche Aktion sollen Spinnruten haben?</question>
-			<answer0>mittlere Aktion</answer0>
-			<answer1>Spitzen-Aktion</answer1>
-			<answer2>Parabolik-Aktion</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>58. Welche Aufgabe hat eine Schwingspitze?</question>
-			<answer0>sie federt die plötzliche Flucht eines Fisches ab</answer0>
-			<answer1>sie ermöglicht besonders weite Würfe</answer1>
-			<answer2>sie ist ein sensibler Bißanzeiger</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>59. Wie ist das Spulengehäuse bei modernen Stationärrollen konstruiert?</question>
-			<answer0>als innenliegende Spule</answer0>
-			<answer1>als freiliegende Spule</answer1>
-			<answer2>als übergreifende oder Doppelwandspule</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>60. Wieviel Meter Schnur nimmt die Spule einer kleinen Stationärrolle auf?</question>
-			<answer0>ca. 100 m der Stärke bis 0,25 mm</answer0>
-			<answer1>ca. 100 m der Stärke 0,25-0,35 mm</answer1>
-			<answer2>ca. 100 m der Stärke 0,35-0,45 mm</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>61. Welche Rollen verwendet man bei Schnurstärken bis 0,20 mm?</question>
-			<answer0>große Stationärrollen</answer0>
-			<answer1>mittelgroße Stationärrollen</answer1>
-			<answer2>kleine Stationärrollen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>62. Welche Rollen verwendet man bei Schnurstärken ab 0,45mm?</question>
-			<answer0>große Rollen</answer0>
-			<answer1>mittelgroße Rollen</answer1>
-			<answer2>kleine Rollen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>63. Für welche Angelmethode eignen sich Fliegenrollen besonders?</question>
-			<answer0>nur für das Fliegenfischen</answer0>
-			<answer1>für alle Angelmethoden</answer1>
-			<answer2>für das Spinnfischen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>64. Für welche Angelmethoden eignen sich Multirollen besonders?</question>
-			<answer0>für alle Methoden</answer0>
-			<answer1>für schweres Meeresfischen</answer1>
-			<answer2>für das Stippfischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>65. Welche Schnurlänge und -stärke beim Hechtfang (Monofilschnur) ist nötig?</question>
-			<answer0>ca. 100 m ab Stärke 0,45 mm</answer0>
-			<answer1>ca. 100 m ab Stärke 0,60 mm</answer1>
-			<answer2>ca. 150 m ab Stärke 20-28 mm</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>66. Bei welchen Arten soll man ein Stahlvorfach verwenden?</question>
+			<question>96. Welche Art hat Hornzähne?</question>
 			<answer0>Barsch</answer0>
-			<answer1>Zander</answer1>
-			<answer2>Hecht</answer2>
+			<answer1>Neunauge</answer1>
+			<answer2>Forelle</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>97. Wie viele Kiemenpaare besitzen Knochenfische (außer Aal)?</question>
+			<answer0>zwei</answer0>
+			<answer1>vier</answer1>
+			<answer2>fünf</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>98. Welcher Fisch hat eine einkammerige Schwimmblase?</question>
+			<answer0>der Karpfen</answer0>
+			<answer1>die Bachforelle</answer1>
+			<answer2>die Schleie</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>99. Wo schmarotzt die Karpfenlaus?</question>
+			<answer0>auf den Kiemen</answer0>
+			<answer1>im Darm</answer1>
+			<answer2>auf der Haut</answer2>
 			<rightAnswer>2</rightAnswer>
 		</item>
 		<item>
-			<question>68. Wie soll die Spulenbremse beim Drill eingestellt werden?</question>
-			<answer0>so, dass die Bruchfestigkeit der Rute nicht überschritten wird</answer0>
-			<answer1>so, dass die Zerreißfestigkeit der Schnur nicht überschritten wird</answer1>
-			<answer2>so, dass ein Fisch keine Schnur abziehen kann</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>67. Wo wird die Bremse bei einer Stationärrolle eingestellt?</question>
-			<answer0>immer vorn an der Spule</answer0>
-			<answer1>immer hinten am Gehäuse</answer1>
-			<answer2>je nach Wahl einer Rolle mit Front- oder Heckbremse</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>69. Für welche Angelmethode eignen sich Stationärrollen besonders?</question>
-			<answer0>für das Fliegenfischen</answer0>
-			<answer1>für alle Angelarten</answer1>
-			<answer2>für leichtes und mittleres Spinn- und Grundfischen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>70. Für welche Angelmethode eignen sich Multi- und Stationärrollen nicht?</question>
-			<answer0>für das Meeresfischen</answer0>
-			<answer1>für das Fliegenfischen</answer1>
-			<answer2>für das Spinnfischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>71. Wie werden monofile Angelschnüre hergestellt?</question>
-			<answer0>sie werden geflochten oder geklöppelt</answer0>
-			<answer1>sie werden aus einem Stück gezogen</answer1>
-			<answer2>sie werden zusammengeknüpft</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>72. Für welche Angelmethode werden bevorzugt geflochtene Schnüre eingesetzt?</question>
-			<answer0>für leichtes Grundfischen</answer0>
-			<answer1>für das Meeresfischen</answer1>
-			<answer2>für schweres Fliegenfischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>73. Wie lautet die Kurzbezeichnung für sinkende oder Nassschnüre?</question>
-			<answer0>"S"</answer0>
-			<answer1>"T"</answer1>
-			<answer2>"F"</answer2>
+			<question>100. Welcher Fisch hat ein Rüsselmaul?</question>
+			<answer0>Blei</answer0>
+			<answer1>Aal</answer1>
+			<answer2>Rotauge</answer2>
 			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>74. Wie wird die Länge einer Fliegenschnur angegeben?</question>
-			<answer0>in cm</answer0>
-			<answer1>in yards</answer1>
-			<answer2>in foot</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>75. Zu welcher Angelmethode gehört die "doppelt verjüngte" Schnur?</question>
-			<answer0>zum Stippfischen</answer0>
-			<answer1>zum Fliegenfischen</answer1>
-			<answer2>zum Grundfischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>76. Was bedeutet der Aufdruck "F/S Sink Head" auf der Verpackung der Fliegenschnur?</question>
-			<answer0>Vorsicht, Kopf zur Seite senken beim Werfen</answer0>
-			<answer1>die englische Herstellerfirma</answer1>
-			<answer2>das Absinken des  ca. 6 m langen vorderen Teils einer Schwimmschnur</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>77. Welche Fische kann man mit Monofilschnur der Stärke 0,20 mm fangen?</question>
-			<answer0>Hecht</answer0>
-			<answer1>Huchen</answer1>
-			<answer2>Hasel</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>78. Welche Form haben Fliegenvorfächer?</question>
-			<answer0>parallel</answer0>
-			<answer1>einseitig verjüngt</answer1>
-			<answer2>doppelt verjüngt</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>79. Welche Kombination Haken/Monofilvorfach ist zweckmässig?</question>
-			<answer0>Hakengrösse 4/0, Vorfachstärke 0,20</answer0>
-			<answer1>Hakengrösse 13, Vorfachstärke 0,35</answer1>
-			<answer2>Hakengrösse 3, Vorfachstärke 0,30</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>80. Bei welcher Angelmethode werden vorwiegend Drillinge verwendet?</question>
-			<answer0>beim Grundfischen</answer0>
-			<answer1>beim Fliegenfischen</answer1>
-			<answer2>beim Spinnfischen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>81. Aus welchen Material bestehen Angelhaken?</question>
-			<answer0>aus Stahl</answer0>
-			<answer1>aus Messing</answer1>
-			<answer2>aus Kunststoff</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>82. Wie bezeichnet man Haken mit mehreren Widerhaken am Schenkel?</question>
-			<answer0>Fliegenhaken</answer0>
-			<answer1>Schonhaken</answer1>
-			<answer2>Wurmhaken</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>83. Wenn empfiehlt sich das Angeln ohne Widerhaken am Hakenschenkel?</question>
-			<answer0>beim Aufziehen eines Tauwurms</answer0>
-			<answer1>beim Nachtangeln</answer1>
-			<answer2>wenn zu häufig untermaßige Fische den Köder nehmen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>84. Welcher Haken ist am größten?</question>
-			<answer0>Größe 3/0</answer0>
-			<answer1>Größe 9</answer1>
-			<answer2>Größe 20</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>85. Welcher Haken ist am kleinsten?</question>
-			<answer0>Grösse 0/1</answer0>
-			<answer1>Grösse 1/0</answer1>
-			<answer2>Grösse 11</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>86. Welche Aufgabe hat die Schaufel an der Spitze eines Wobblers?</question>
-			<answer0>sie erhöht die Laufgeschwindigkeit des Köders</answer0>
-			<answer1>sie bestimmt die Tiefe, in der der Köder geführt werden kann</answer1>
-			<answer2>sie verstärkt die Täuschung, dass es sich um einen lebenden Fisch handelt</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>87. Welche der nachstehenden Arten werden mit mittelgroßen Haken gefangen?</question>
-			<answer0>Schleie, Döbel, Blei, Barbe</answer0>
-			<answer1>Aal, große Karpfen, Zander</answer1>
-			<answer2>Plötze, Rotfeder, Äsche</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>88. An welche Art Haken werden Kunstfliegen gebunden?</question>
-			<answer0>Öhrhaken</answer0>
-			<answer1>Plättchenhaken</answer1>
-			<answer2>Drillingshaken</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>89. Was bezeichnen Angler als eine "Nymphe"</question>
-			<answer0>das weibliche Gegenstück zum "Petrijunger"</answer0>
-			<answer1>Kunstfliegen, die Insektenlarven nachahmen</answer1>
-			<answer2>Brutfische im Dottersackstadium</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>90. Wie stark soll der Auftrieb einer Pose sein?</question>
-			<answer0>der Auftrieb ist nur bei kleinen Fischen von Bedeutung</answer0>
-			<answer1>je stärker der Auftrieb, desto besser kann man die Pose erkennen</answer1>
-			<answer2>der Auftrieb soll möglichst gering sein, damit der Fisch wenig Widerstand spürt</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>91. Für welche Gewässerart sind schlanke Posen besonders geeignet?</question>
-			<answer0>für starke Strömung</answer0>
-			<answer1>für stehende Gewässer</answer1>
-			<answer2>für das Angeln bei Starkwind</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>92. Welches Maß bestimmt beim Angeln mit Gleitschwimmer die Angeltiefe?</question>
-			<answer0>der Abstand zwischen Köder und Schwimmer</answer0>
-			<answer1>der Abstand zwischen Köder und Stopper</answer1>
-			<answer2>der Abstand zwischen Köder und Blei</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>93. Welche Aufgabe haben Wirbel? Sie verhindern...</question>
-			<answer0>Schnurverdrehungen und Perückenbildung</answer0>
-			<answer1>Schnurbruch</answer1>
-			<answer2>das Hängenbleiben des Hakens in der Schnur</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>94. Bei welcher Angelart werden keine Wirbel eingesetzt?</question>
-			<answer0>beim Grundfischen</answer0>
-			<answer1>beim Spinnfischen</answer1>
-			<answer2>beim Fliegenfischen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>95. Welche Köder zählen nicht zu den natürlichen Ködern?</question>
-			<answer0>Würmer, Maden, Käfer</answer0>
-			<answer1>Brot, Käse. Kartoffeln</answer1>
-			<answer2>Blinker, Spinner, Wobbler</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>96. Welches typische Merkmal haben "Spinner" im Unterschied zu "Blinkern"?</question>
-			<answer0>sie sind aus Metall</answer0>
-			<answer1>sie locken den Fisch durch ein um eine Achse rotierendes Metallblatt</answer1>
-			<answer2>der Haken wird durch rote Kunststoffblättchen verdeckt</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>99. Was ist ein "rod pod"?</question>
-			<answer0>ein Rutenfutteral</answer0>
-			<answer1>eine flexibel einstellbare Rutenauflage</answer1>
-			<answer2>ein Gefährt zum Transport des Angelgeräts</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>97. Welche Fische lassen sich gut mit einem Blinker fangen?</question>
-			<answer0>Blei und Güster</answer0>
-			<answer1>Hecht und Wels</answer1>
-			<answer2>Schleie und Plötze</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>98. Ist eine Stipprute beringt?</question>
-			<answer0>ja</answer0>
-			<answer1>nein</answer1>
-			<answer2>nicht jede</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>100. Was soll bei einer richtig austarierten Pose aus dem Wasser schauen?</question>
-			<answer0>zwei Drittel des Schwimmkörpers, um gut sichtbar zu sein</answer0>
-			<answer1>sie sollte auf der Wasseroberfläche liegen wegen des Wellentanzes</answer1>
-			<answer2>nur noch die gut sichtbare Antenne</answer2>
-			<rightAnswer>2</rightAnswer>
 		</item>
 	</section>
 	<section name="Spezielle Fischkunde">
@@ -2106,6 +1404,708 @@
 			<rightAnswer>1</rightAnswer>
 		</item>
 	</section>
+	<section name="Gewässerkunde">
+		<item>
+			<question>1. Wasser ist eine chemische Verbindung aus ...?</question>
+			<answer0>1 Teil Wasserstoff und 1 Teil Sauerstoff</answer0>
+			<answer1>2 Teilen Wasserstoff und 1 Teil Sauerstoff</answer1>
+			<answer2>1 Teil Wasserstoff und 2 Teilen Sauerstoff</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>2. Welches im Wasser gelöste Gas ist für das Leben der Fische besonders wichtig?</question>
+			<answer0>Kohlendioxid</answer0>
+			<answer1>Schwefeldioxid</answer1>
+			<answer2>Sauerstoff</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>3. Welche physikalische Eigenschaft des Wassers beeinflusst seine Dichte?</question>
+			<answer0>die Wassertrübung</answer0>
+			<answer1>die Wasserströmung</answer1>
+			<answer2>die Wassertemperatur</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>4. Wann hat Wasser die größte Dichte?</question>
+			<answer0>bei 0°C</answer0>
+			<answer1>bei 4°C</answer1>
+			<answer2>bei 10°C</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>5. Wodurch entsteht eine Wassertrübung?</question>
+			<answer0>durch den pH-Wert</answer0>
+			<answer1>durch den SBV-Wert</answer1>
+			<answer2>durch Schwebstoffe oder pflanzliches Plankton</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>6. Wann kommt es in stehenden Gewässern zu einer Vollzirkulation?</question>
+			<answer0>im Winter</answer0>
+			<answer1>im Frühjahr und Herbst</answer1>
+			<answer2>im Sommer</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>7. Wie gelangt der Sauerstoff ins Wasser?</question>
+			<answer0>nur aus der Luft</answer0>
+			<answer1>nur über Wasserpflanzen</answer1>
+			<answer2>aus der Luft und durch Wasserpflanzen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>8. Wodurch wird die Menge des im Wasser gelösten Sauerstoffs vor allem beeinflusst?</question>
+			<answer0>durch den pH-Wert</answer0>
+			<answer1>durch die Wassertemperatur</answer1>
+			<answer2>durch den SBV-Wert</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>9. Was bewirkt zunehmende Wassertemperatur?</question>
+			<answer0>zunehmenden Sauerstoffgehalt</answer0>
+			<answer1>abnehmenden Sauerstoffgehalt</answer1>
+			<answer2>gleichbleibenden Sauerstoffgehalt</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>10. Welche Fische haben einen hohen Sauerstoffbedarf?</question>
+			<answer0>Forellenartige</answer0>
+			<answer1>Barschartige</answer1>
+			<answer2>Karpfenartige</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>11. Welcher Sauerstoffgehalt des Wassers ist für Forellen überlebensnotwendig?</question>
+			<answer0>mindestens 3 mg/l</answer0>
+			<answer1>mindestens 5 mg/l</answer1>
+			<answer2>mindestens 7 mg/l</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>12. Welcher Sauerstoffgehalt des Wasser ist für Karauschen überlebensnotwendig?</question>
+			<answer0>mindestens  3 mg/l</answer0>
+			<answer1>mindestens  5 mg/l</answer1>
+			<answer2>mindestens  7 mg/l</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>13. Welche pH-Werte bieten Fischen optimale Lebensbedingungen?</question>
+			<answer0>2-4</answer0>
+			<answer1>6-8</answer1>
+			<answer2>5-10</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>14. Welcher pH-Wert zeigt säurehaltiges Wasser an?</question>
+			<answer0>drei</answer0>
+			<answer1>sieben</answer1>
+			<answer2>elf</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>15. Wann nehmen Pflanzen Kohlendioxyd auf und geben Sauerstoff ab?</question>
+			<answer0>am Tage</answer0>
+			<answer1>nachts</answer1>
+			<answer2>Tag und Nacht</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>16. Sind Schwimmblattpflanzen im Boden verankert?</question>
+			<answer0>immer</answer0>
+			<answer1>manchmal</answer1>
+			<answer2>niemals</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>17. Was ist ein eutrophes Gewässer?</question>
+			<answer0>ein besonders nährstoffreiches</answer0>
+			<answer1>ein besonders nährstoffarmes</answer1>
+			<answer2>ein zeitweilig trockenliegendes</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>18. Welcher Fisch findet sich in der Forellenregion?</question>
+			<answer0>Schleie</answer0>
+			<answer1>Mühlkoppe</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>19. Welche Wassertemperatur ist für die Forellenregion kennzeichnend?</question>
+			<answer0>20°C</answer0>
+			<answer1>10°C</answer1>
+			<answer2>25°C</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>20. Welche kleinen Wassertiere gehören nicht zu den sogenannten Fischnährtieren?</question>
+			<answer0>Kleinkrebse</answer0>
+			<answer1>Kammmolche</answer1>
+			<answer2>Libellenlarven</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>21. Wo ist die Seeforelle heimisch?</question>
+			<answer0>in tiefen Flachlandseen</answer0>
+			<answer1>in Boddengewässern</answer1>
+			<answer2>in Vorgebirgsseen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>22. Welche Fischart lebt in der Äschenregion?</question>
+			<answer0>Wels</answer0>
+			<answer1>Kaulbarsch</answer1>
+			<answer2>Nase</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>23. Welches Fischnährtier ist für die Äschenregion typisch?</question>
+			<answer0>Wasserfloh</answer0>
+			<answer1>Köcherfliegenlarve (im Köcher)</answer1>
+			<answer2>Schlammröhrenwurm</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>24. Welche Fischart ist kein Fisch der Äschenregion?</question>
+			<answer0>Blei</answer0>
+			<answer1>Hasel</answer1>
+			<answer2>Elritze</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>26. Welche Wassertemperatur ist im Sommer für die Äschenregion typisch?</question>
+			<answer0>10°C</answer0>
+			<answer1>etwa 15-18°C</answer1>
+			<answer2>über 22°C</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>27. Wie ist die typische Beschaffenheit des Gewässergrundes in der Forellenregion?</question>
+			<answer0>steinig und felsig</answer0>
+			<answer1>kiesig</answer1>
+			<answer2>schlammig</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>25. Wie stark ist die Strömung in der Bleiregion?</question>
+			<answer0>sehr stark</answer0>
+			<answer1>keine vorhanden</answer1>
+			<answer2>gering</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>28. Welcher Fisch lebt nicht in der Bleiregion?</question>
+			<answer0>Hecht</answer0>
+			<answer1>Rotauge</answer1>
+			<answer2>Bachforelle</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>29. In welcher Gewässerregion finden wir die meisten Fischarten?</question>
+			<answer0>Bleiregion</answer0>
+			<answer1>Forellenregion</answer1>
+			<answer2>Barbenregion</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>30. Welcher Fisch läßt sich in der Bleiregion finden?</question>
+			<answer0>Hasel</answer0>
+			<answer1>Wels</answer1>
+			<answer2>Elritze</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>31. Welches Nährtier lebt am Gewässergrund?</question>
+			<answer0>Wasserfloh</answer0>
+			<answer1>Schlammröhrenwurm</answer1>
+			<answer2>Hüpferling</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>32. Wo leben rote Zuckmückenlarven?</question>
+			<answer0>im Freiwasser</answer0>
+			<answer1>am Grund</answer1>
+			<answer2>an der Oberfläche</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>33. Was ist Sprock?</question>
+			<answer0>ein Kleinfisch der Kaulbarschregion</answer0>
+			<answer1>die Larve der Köcherfliege</answer1>
+			<answer2>ein Parasit</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>34. Welcher Fisch frisst hauptsächlich tierisches Plankton?</question>
+			<answer0>Hecht</answer0>
+			<answer1>Renke</answer1>
+			<answer2>Barsch</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>35. Welche Fischarten sollten nicht in die Forellenregion gelangen?</question>
+			<answer0>Groppen</answer0>
+			<answer1>Aale</answer1>
+			<answer2>Schmerlen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>36. Was ist der für den Menschen wichtigste Rohstoff</question>
+			<answer0>Erdöl</answer0>
+			<answer1>Gold</answer1>
+			<answer2>Wasser</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>37. Warum wachsen Fische im Sommer gewöhnlich schneller als in der kalten Jahreszeit?</question>
+			<answer0>weil da das Wasser klarer ist</answer0>
+			<answer1>weil sie mehr Nahrung aufnehmen und der Stoffwechsel erhöht ist</answer1>
+			<answer2>weil sie abgelaicht haben</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>38. Wie hoch ist der Anteil von Süßwasser am Wasservorrat der Erde</question>
+			<answer0>knapp drei Prozent</answer0>
+			<answer1>elf Prozent</answer1>
+			<answer2>zweiundzwanzig Prozent</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>39. Wie hoch etwa ist der tägliche Wasserverbrauch eines Thüringers?</question>
+			<answer0>15 Liter</answer0>
+			<answer1>45 Liter</answer1>
+			<answer2>125 Liter</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>40. Bei wieviel Gramm Salz pro Liter sprechen wir von Salzwasser?</question>
+			<answer0>bei  über drei Gramm</answer0>
+			<answer1>über fünf Gramm</answer1>
+			<answer2>über zwanzig Gramm</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>41. Wieviel Wasser entweicht täglich in den Weltraum?</question>
+			<answer0>etwa 275 Milliarden Tonnen</answer0>
+			<answer1>600 Millionen Tonnen</answer1>
+			<answer2>kein Wasserverlust</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>42. Was benötigen Wasserpflanzen zur Sauerstofferzeugung?</question>
+			<answer0>hinreichend erwärmtes Wasser</answer0>
+			<answer1>Licht</answer1>
+			<answer2>ph-Werte über 7</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>43. Wie gelangt Sauerstoff ins Wasser?</question>
+			<answer0>durch den Gasaustausch in den Kiemen der Fische</answer0>
+			<answer1>durch die Assimilation der Unterwasserpflanzen  und den Eintrag aus der Luft</answer1>
+			<answer2>durch Zersetzungsprozesse</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>44. Welche Region ist besonders sauerstoffreich?</question>
+			<answer0>Brackwasserregion?</answer0>
+			<answer1>Bleiregion</answer1>
+			<answer2>Forellenregion</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>45. Welche Pflanzen tragen zur Anreicherung des Wassers mit Sauerstoff besonders bei?</question>
+			<answer0>Überwasserpflanzen</answer0>
+			<answer1>Schwimmblattpflanzen</answer1>
+			<answer2>Unterwasserpflanzen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>46. Welche Pflanze gehört zu den Unterwasserpflanzen?</question>
+			<answer0>Schilf</answer0>
+			<answer1>Teichlinse</answer1>
+			<answer2>Quellmoos</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>47. Welche Pflanzen sind Überwasserpflanzen?</question>
+			<answer0>Segge, Igelkolben</answer0>
+			<answer1>Wasserstern, Hornkraut</answer1>
+			<answer2>Tausendblatt, Quellmoos</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>48. Welche Pflanzen sind Schwimmblattpflanzen?</question>
+			<answer0>Schilf, Rohr</answer0>
+			<answer1>Seerosen</answer1>
+			<answer2>Wasserpest</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>49. Was ist die Wasserpest?</question>
+			<answer0>eine Fischkrankheit</answer0>
+			<answer1>eine Unterwasserpflanze</answer1>
+			<answer2>eine Wasserverunreinignug</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>50. Was versteht man unter Wasserblüte?</question>
+			<answer0>ein blühendes Seerosenfeld</answer0>
+			<answer1>die Entwicklung von Schwebalgen</answer1>
+			<answer2>eine Blütenstaubablagerung</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>51. Was ist ein Altwasser?</question>
+			<answer0>ein abgetrennter früherer Flussarm</answer0>
+			<answer1>ein See mit unsauberem Wasser</answer1>
+			<answer2>ein Gewässer mit hohem Altfischbestand</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>52. Was kennzeichnet einen Zandersee?</question>
+			<answer0>klar, kühl, tief</answer0>
+			<answer1>klar, kalt, nährstoffarm</answer1>
+			<answer2>nährstoffreich, trüb, unterschiedlich tief</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>53. Was kennzeichnet einen Renkensee?</question>
+			<answer0>flach, trüb, sauerstoffarm</answer0>
+			<answer1>flach, warm, nährstoffreich</answer1>
+			<answer2>tief, nährstoffarm</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>54. Welcher Fisch zeigt gute Wasserqualität an?</question>
+			<answer0>Schleie</answer0>
+			<answer1>Elritze</answer1>
+			<answer2>Wels</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>55. Welcher Fisch lebt gern am Gewässergrund?</question>
+			<answer0>Mairenke</answer0>
+			<answer1>Blei</answer1>
+			<answer2>Rotfeder</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>56. Welcher Fisch lebt in der Freiwasserzone?</question>
+			<answer0>Aal</answer0>
+			<answer1>Felchen</answer1>
+			<answer2>Blei</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>57. Welcher Fisch lebt in Hochgebirgsseen?</question>
+			<answer0>Wels</answer0>
+			<answer1>Barbe</answer1>
+			<answer2>Elritze</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>58. Welcher Fisch bevorzugt die flache Seeuferzone?</question>
+			<answer0>Saibling</answer0>
+			<answer1>Zander</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>59. Darf man Wasserpflanzen beliebig entfernen?</question>
+			<answer0>nur im Frühherbst</answer0>
+			<answer1>nein</answer1>
+			<answer2>jederzeit</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>60. Welcher Fisch ist ein Laichräuber?</question>
+			<answer0>Quappe</answer0>
+			<answer1>Plötze</answer1>
+			<answer2>Karpfen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>61. Welcher Fisch ist kein Laichräuber?</question>
+			<answer0>Regenbogenforelle</answer0>
+			<answer1>Aal</answer1>
+			<answer2>Hasel</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>62. Welcher Fisch benötigt eine besonders gute Wasserqualität?</question>
+			<answer0>Karausche</answer0>
+			<answer1>Bachforelle</answer1>
+			<answer2>Aal</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>63. Was deutet auf Sauerstoffmangel hin?</question>
+			<answer0>Fische beißen nicht</answer0>
+			<answer1>Fische springen aus dem Wasser</answer1>
+			<answer2>Fische schnappen an der Oberfläche nach Luft</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>64. Welcher Fisch ist nach Thüringen eingeschleppt worden?</question>
+			<answer0>Bachforelle</answer0>
+			<answer1>Zwergwels</answer1>
+			<answer2>Döbel</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>65. Welcher Fisch gilt als in Thüringen heimisch?</question>
+			<answer0>Atlantischer Lachs</answer0>
+			<answer1>Regenbogenforelle</answer1>
+			<answer2>Bachsaibling</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>66. Welcher Fisch gehört nicht zu den heimischen Fischen?</question>
+			<answer0>Kaulbarsch</answer0>
+			<answer1>Mühlkoppe</answer1>
+			<answer2>Bachsaibling</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>67. Warum ist eine übermässige Entwicklung von Überwasserpflanzen unerwünscht?</question>
+			<answer0>wegen starker Blütenstaubentwicklung</answer0>
+			<answer1>wegen erschwerter Angelbedingungen</answer1>
+			<answer2>wegen Verlandungsgefahr</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>68. Wo ist ein Gewässer besonders nährstoffreich?</question>
+			<answer0>in der Freiwasserzone</answer0>
+			<answer1>in der Uferzone</answer1>
+			<answer2>in der Tiefenzone</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>69. Wo kommt reines Wasser vor</question>
+			<answer0>als Gletscherwasser</answer0>
+			<answer1>in der Tiefsee</answer1>
+			<answer2>nirgendwo in der Natur</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>70. Welches Wasser ist sauerstoffarm?</question>
+			<answer0>Quellwasser</answer0>
+			<answer1>Flusswasser</answer1>
+			<answer2>Teichwasser</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>71. Bis zu welcher Wassertiefe können grüne Pflanzen leben?</question>
+			<answer0>bis zur Lichtgrenze</answer0>
+			<answer1>bis zu jeder Tiefe, soweit der Wasserdruck nicht zu stark ist</answer1>
+			<answer2>bis zu jeder Tiefe bei entsprechenden Wassertemperaturen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>72. Womit beginnt die Nahrungskette in Gewässern?</question>
+			<answer0>mit Insektenlarven</answer0>
+			<answer1>mit kleinen Fischen</answer1>
+			<answer2>mit ein- und mehrzelligen Algen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>73. Wo leben in Gebirgsbächen die meisten Fischnährtiere?</question>
+			<answer0>an der Wasseroberfläche</answer0>
+			<answer1>am Gewässergrund</answer1>
+			<answer2>frei im Wasser schwimmend</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>74. Aus welchem Grund schwimmt Eis auf dem Wasser?</question>
+			<answer0>sein spezifisches Gewicht ist geringer als das des Wassers</answer0>
+			<answer1>weil stets Luft eingeschlossen ist</answer1>
+			<answer2>der Strömungsdruck treibt es nach oben</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>75. Welche Fließwasserregion ist am besten mit Sauerstoff versorgt?</question>
+			<answer0>Bleiregion</answer0>
+			<answer1>Barbenregion</answer1>
+			<answer2>Forellenregion</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>76. Welche Pflanze bildet an der Wasseroberfläche schwimmende Blätter aus?</question>
+			<answer0>Rohrkolben</answer0>
+			<answer1>Wasserpest</answer1>
+			<answer2>Gelbe Mummel</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>77. Was ist ein oligotrophes Gewässer?</question>
+			<answer0>ein sehr nährstoffreiches Gewässer</answer0>
+			<answer1>ein stark verlandetes Gewässer</answer1>
+			<answer2>ein nährstoffarmes Gewässer</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>78. Was gilt als Teich?</question>
+			<answer0>ein kleiner natürlicher See</answer0>
+			<answer1>ein absperrbares, ablassbares, künstlich angelegtes Gewässer</answer1>
+			<answer2>ein geschlossenes Buhnenfeld</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>79. Was nennt man Tümpel?</question>
+			<answer0>kleinere stehende Gewässer, die zeitweise trockenfallen</answer0>
+			<answer1>Kleingewässer mit hohem Frosch- und Krötenbestand</answer1>
+			<answer2>durch Abwässer der Landwirtschaft vergiftete Kleingewässer</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>80. Wodurch ist ein nahrungsarmer See gekennzeichnet?</question>
+			<answer0>sein Tiefenwasser hat einen hohen Sauerstoffgehalt</answer0>
+			<answer1>sein Tiefenwasser ist sauerstoffarm</answer1>
+			<answer2>er hat grosse Fäulnisablagerungen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>81. Wann kommt es im Wärmehaushalt eines Sees zu einer Schichtung?</question>
+			<answer0>im Sommer</answer0>
+			<answer1>im Frühjahr</answer1>
+			<answer2>im Herbst</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>82. Was ist für einen nährstoffreichen (eutrophen) See charakteristisch?</question>
+			<answer0>im Sommer entwickeln sich grosse Mengen Schwebealgen</answer0>
+			<answer1>das Tiefenwasser ist sauerstoffreich</answer1>
+			<answer2>am Gewässerboden lagern sich kaum Fäulnisstoffe ab</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>83. Welche Art lebt bevorzugt in der Bodenzone eines Gewässers?</question>
+			<answer0>Blei</answer0>
+			<answer1>Zander</answer1>
+			<answer2>Kleine Maräne</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>84. Welcher Fisch bevorzugt die pflanzenbewachsene Uferzone eines stehenden Gewässers?</question>
+			<answer0>Zander</answer0>
+			<answer1>Äsche</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>85. Welcher Fisch lebt in der Freiwasserzone eines Sees?</question>
+			<answer0>Schleie</answer0>
+			<answer1>Felche</answer1>
+			<answer2>Aal</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>86. Welche Fischart laicht in der Freiwasserzone von Seen?</question>
+			<answer0>Kleine Maräne</answer0>
+			<answer1>Regenbogenforelle</answer1>
+			<answer2>Barsch</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>87. Welche Fischart kommt nicht in Hochgebirgsseen vor?</question>
+			<answer0>Elritze</answer0>
+			<answer1>Stör</answer1>
+			<answer2>Seeforelle</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>88. Wovon ernährt sich die erwachsene Schleie hauptsächlich?</question>
+			<answer0>von Plankton</answer0>
+			<answer1>von Anflugnahrung</answer1>
+			<answer2>von Bodennahrung</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>89. Der Blei ist überwiegend...</question>
+			<answer0>ein Pflanzenfresser</answer0>
+			<answer1>ein Kleintierfresser</answer1>
+			<answer2>ein Raubfisch</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>90. Welcher Fisch ist nicht in der Forellenregion vertreten?</question>
+			<answer0>Wels</answer0>
+			<answer1>Mühlkoppe</answer1>
+			<answer2>Elritze</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>91. Welcher Fisch ist in der Forellenregion nicht schädlich?</question>
+			<answer0>Döbel</answer0>
+			<answer1>Elritze</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>92. Welche Algenart verurscht die sogenannte Wasserblüte?</question>
+			<answer0>Kieselalge</answer0>
+			<answer1>Blaualge</answer1>
+			<answer2>Geißelalge</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>93. Welche Pflanze reichert das Wasser besonders mit Sauerstoff an?</question>
+			<answer0>Quellmoos</answer0>
+			<answer1>Teichrose</answer1>
+			<answer2>Binse</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>94. Welche Strömung herrscht in der Kaulbarschregion?</question>
+			<answer0>eine geringe und wechselnde</answer0>
+			<answer1>eine reissende</answer1>
+			<answer2>gar keine</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>95. Welche Tierart ist als Fischnährtier anzusprechen?</question>
+			<answer0>Fischegel</answer0>
+			<answer1>Rückenschwimmer</answer1>
+			<answer2>Schlammröhrenwurm</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>96. Was zählt zum tierischen Plankton?</question>
+			<answer0>Hüpferlinge und Wasserflöhe</answer0>
+			<answer1>Zuckmückenlarven und Schlammröhrenwürmer</answer1>
+			<answer2>Eintags- und Steinfliegenlarven</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>97. Warum darf man in Krebsgewässer keine Aale aussetzen?</question>
+			<answer0>sie sind Nahrungskonkurrenten für Krebse</answer0>
+			<answer1>sie wachsen schlecht ab</answer1>
+			<answer2>sie fressen die "Butterkrebse"</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>98. Wie setzt man Hechtsömmerlinge aus?</question>
+			<answer0>paarweise in Ufernähe</answer0>
+			<answer1>im Freiwasser - sie suchen sich selbst einen günstigen Standort</answer1>
+			<answer2>vereinzelt an geeigneten Stellen im Uferbereich</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>99. Wie viele Glasaale wiegen 1kg?</question>
+			<answer0>ca. 3.000 Stück</answer0>
+			<answer1>ca. 5.000 Stück</answer1>
+			<answer2>ca. 500 Stück</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>100. Welche Raubfische sind hauptsächlich nachtaktiv?</question>
+			<answer0>Wels und Aal</answer0>
+			<answer1>Barsch und Zander</answer1>
+			<answer2>Döbel und Rapfen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+	</section>
 	<section name="Natur-, Tier- und Umweltschutz">
 		<item>
 			<question>1. Was versteht man unter einer Lebensgemeinschaft in Naturgewässern?</question>
@@ -2808,6 +2808,708 @@
 			<rightAnswer>2</rightAnswer>
 		</item>
 	</section>
+	<section name="Gerätekunde">
+		<item>
+			<question>1. Was ist zu beachten, um eine Teleskoprute schonend zu behandeln?</question>
+			<answer0>beim Auseinanderziehen Spitze zuletzt ausziehen</answer0>
+			<answer1>beim Zusammenschieben Spitze zuletzt einschieben</answer1>
+			<answer2>bei Nichtgebrauch möglichst in voller Länge aufbewahren</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>2. Für den Fang welcher Fische ist die Schnurstärke 0,15 mm gut geeignet?</question>
+			<answer0>große Döbel</answer0>
+			<answer1>Aale</answer1>
+			<answer2>Plötzen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>3. Für welche Angelmethode wird eine Pose (Schwimmer) verwendet?</question>
+			<answer0>Spinnfischen</answer0>
+			<answer1>Stippfischen</answer1>
+			<answer2>Streamerfischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>4. Welcher Teil der Stationärrolle ist für eine sichere Landung des Fisches am wichtigsten?</question>
+			<answer0>die Übersetzung, da sie ein schnelles Einholen des Fisches ermöglicht</answer0>
+			<answer1>die Rücklaufsperre, da sie ein versehentliches Schnurgeben unmöglich macht</answer1>
+			<answer2>die Schnurbremse, da sie ein Abreißen der Schnur bei richtiger Einstellung vermeidet</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>5. Auf welche Hakenart werden Fliegen gebunden?</question>
+			<answer0>Öhrhaken</answer0>
+			<answer1>Plättchenhaken</answer1>
+			<answer2>Goldhaken</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>6. Bei welcher Angelmethode werden kleine Wobbler verwendet?</question>
+			<answer0>beim leichten Fliegenfischen</answer0>
+			<answer1>beim leichten Grundangeln</answer1>
+			<answer2>beim leichten Spinnfischen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>7. Die Trockenfliege ist ein guter Köder für den Fang von...</question>
+			<answer0>Schleie</answer0>
+			<answer1>Aal</answer1>
+			<answer2>Äsche</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>8. Was bewirkt ein zwischen Schnur und Vorfach eingebundener Wirbel?</question>
+			<answer0>von ihm geht eine Lockwirkung aus</answer0>
+			<answer1>es werden Hänger vermieden</answer1>
+			<answer2>er verhindert das Verdrehen der Schnur</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>9. Welcher Gerätetest ist vor Beginn des Angelns am wichtigsten?</question>
+			<answer0>Zugprobe zur Prüfung der Festigkeit der ganzen Angelflucht</answer0>
+			<answer1>Prüfung der Hülsenverbindungen und der Rollenbefestigung</answer1>
+			<answer2>Prüfung der Schärfe der Hakenspitze und der Bleibeschwerung</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>10. An welcher Stelle der Einhand-Spinnrute ist die Rolle am Griffteil angebracht?</question>
+			<answer0>der Rollenhalter sitzt am Ende des Griffteils</answer0>
+			<answer1>der Rollenhalter sitzt in der Mitte des Griffteils</answer1>
+			<answer2>der Rollenhalter sitzt am vorderen Griffteil</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>11. Was ist ein Gaff?</question>
+			<answer0>ein Scherzname für das Echolot</answer0>
+			<answer1>ein Landehaken zum Bergen grosser Fische</answer1>
+			<answer2>ein Fernglas</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>12. Wie soll die Einstellung der Schnurbremse erfolgen?</question>
+			<answer0>im Einklang von Reißfestigkeit der Schnur und Bruchfestigkeit der Rute</answer0>
+			<answer1>erst dann, wenn ein Fisch angebissen hat</answer1>
+			<answer2>so, dass der Fisch keine Schnur abziehen kann</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>13. Welche Hauptgruppen künstlicher Fliegen sind zu unterscheiden?</question>
+			<answer0>grosse und kleine Fliegen</answer0>
+			<answer1>Trocken-, Nassfliegen und Streamer</answer1>
+			<answer2>vielfarbige und einfarbige Fliegen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>14. Wie soll ein Schnurknoten grundsätzlich beschaffen sein?</question>
+			<answer0>er soll möglichst klein sein und wenig auffallen</answer0>
+			<answer1>er soll sich möglichst leicht wieder lösen lassen</answer1>
+			<answer2>er darf sich nicht aufziehen und soll die Tragkraft der Schnur möglichst wenig reduzieren</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>15. Welche der nachstehenden Fische lassen sich gut mit einem Spinner fangen?</question>
+			<answer0>Blei und Güster</answer0>
+			<answer1>Schleie und Plötze</answer1>
+			<answer2>Flussbarsch und Zander</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>16. Welcher Schnurring der Rute ist am stärksten belastet?</question>
+			<answer0>der Spitzenring</answer0>
+			<answer1>alle Ringe</answer1>
+			<answer2>der erste Ring nach der Rolle</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>17. Wo sitzt der Rollenhalter bei einer Fliegenrute</question>
+			<answer0>vor der Wurfhand</answer0>
+			<answer1>hinter der Wurfhand</answer1>
+			<answer2>je nach Hersteller unterschiedlich</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>18. Für welche Fangmethode eignet sich die Stationärrolle besonders gut?</question>
+			<answer0>sie eignet sich gleich gut für alle Fangmethoden</answer0>
+			<answer1>für das Fliegenfischen</answer1>
+			<answer2>für die leichte und mittlere Spinnfischerei sowie das Grundangeln</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>19. Wodurch entsteht hauptsächlich Schnurdrall?</question>
+			<answer0>durch das Werfen gegen den Wind</answer0>
+			<answer1>durch das Einbinden eines Wirbels zwischen Hauptschnur und Vorfach</answer1>
+			<answer2>durch stark wirbelnde Köder</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>20. Wonach hat sich die Bremseinstellung an der Rolle zu richten?</question>
+			<answer0>nach der Schwere des zu erwartenden Fisches</answer0>
+			<answer1>nach der Grösse der Rollenspule</answer1>
+			<answer2>nach der Tragfähigkeit der Schnur</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>21. Was bedeutet die Hakenskala von 1-18</question>
+			<answer0>18 ist der grösste Haken</answer0>
+			<answer1>1 ist der grösste Haken</answer1>
+			<answer2>von 1-9 ist der Haken mit Widerhaken, von 10-18 ohne Widerhaken versehen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>22. Was bedeutet der Begriff "Nassfischen" beim Flugangeln?</question>
+			<answer0>Watfischen</answer0>
+			<answer1>Angeln bei Regenwetter</answer1>
+			<answer2>Angeln mit künstlicher Fliege unterhalb der Wasseroberfläche</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>23. Welche verschiedenen Hakenformen gibt es zum Anbinden der Schnur?</question>
+			<answer0>dick- und dünnschenklige Haken</answer0>
+			<answer1>Plättchen- und Öhrhaken</answer1>
+			<answer2>Flach- und Rundstahlhaken</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>24. Welches Posenmaterial hat den größten Auftrieb?</question>
+			<answer0>Hartholz</answer0>
+			<answer1>Hartschaum</answer1>
+			<answer2>Weichholz</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>25. Was ist ein Laufblei?</question>
+			<answer0>ein Lotblei</answer0>
+			<answer1>ein Lochblei</answer1>
+			<answer2>ein Vorläufer vor einem künstlichen Köder</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>26. Was ist eine Senke?</question>
+			<answer0>ein  Prüfgerät zur Feststellung von Unebenheiten am Gewässergrund</answer0>
+			<answer1>ein Lotblei</answer1>
+			<answer2>ein Netz zum Köderfischfang</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>27. Was ist ein typisches Merkmal eines Blinkers?</question>
+			<answer0>er taumelt</answer0>
+			<answer1>er dreht sich um die eigene Achse</answer1>
+			<answer2>er ist farbiger als ein Spinner</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>28. Was muss vor dem Auswerfen unbedingt überprüft werden?</question>
+			<answer0>Schnurführungsringe auf Risse, Schnur auf Abrieb und Rolle auf Bremseinstellung</answer0>
+			<answer1>die Messgenauigkeit der Fischwaage</answer1>
+			<answer2>das Vorhandensein von genügend Ködermaterial</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>29. Darf beim Friedfischangeln ein Zwillings- oder Drillingshaken verwendet werden?</question>
+			<answer0>nur bei bestimmten Fischarten</answer0>
+			<answer1>niemals</answer1>
+			<answer2>ja, wenn als Köder ein Stück Kartoffel verwendet wird</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>30. Was versteht man unter Teleskoprute?</question>
+			<answer0>eine Rute mit elektronischen Bissanzeiger</answer0>
+			<answer1>eine zusammenschiebbare Rute</answer1>
+			<answer2>jede mehrfach geteilte Rute mit Steckverbindungen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>31. Welche Aufgabe haben Rutenringe?</question>
+			<answer0>sie sollen Perückenbildungen verhindern</answer0>
+			<answer1>sie bremsen die Fliehkraft des Köders sanft ab</answer1>
+			<answer2>sie sollen die Schnur führen und den Druck auf die Rute gleichmäßig verteilen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>32. Bei welchem Rollentyp steht die Spulenachse längs (parallel) zur Rutenachse?</question>
+			<answer0>bei der Fliegenrolle</answer0>
+			<answer1>bei der Stationärrolle</answer1>
+			<answer2>bei der Multirolle</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>33. Welches Konstruktionsteil einer Angelrolle soll einen Schnurbruch  verhindern?</question>
+			<answer0>die Bremse</answer0>
+			<answer1>der Schnurfangbügel</answer1>
+			<answer2>die Rücklaufsperre</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>34. Bei welcher Angelmethode ist Anfüttern zweckmässig?</question>
+			<answer0>beim Grund- und Stippfischen</answer0>
+			<answer1>beim Spinnfischen</answer1>
+			<answer2>beim Fliegenfischen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>35. Bei welcher Schwimmermontage verwendet man einen Stopper?</question>
+			<answer0>bei feststehenden Schwimmern</answer0>
+			<answer1>bei gleitenden Schwimmern</answer1>
+			<answer2>bei der Wasserkugel</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>36. Wie vermeidet man beim Spinnfischen das Verdrehen der Schnur?</question>
+			<answer0>man verwendet ein starkes Stahlvorfach</answer0>
+			<answer1>man fettet die Schnur</answer1>
+			<answer2>man bringt einen oder mehrere Wirbel  an</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>37. Ein Schnurfangbügel ist kennzeichnend für...</question>
+			<answer0>die Fliegenrolle</answer0>
+			<answer1>die Multirolle</answer1>
+			<answer2>die Stationärrolle</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>38. Was tun, wenn die ersten Meter einer monofilen Kunstfaserschnur aufgeraut sind?</question>
+			<answer0>die aufgerauten Stellen mit einem eingefetteten Lederlappen glätten</answer0>
+			<answer1>das aufgeraute Schnurstück abschneiden</answer1>
+			<answer2>die aufgeraute Schnur mit farblosen Schnurlack überziehen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>39. Welchen Zweck erfüllt die Pose?</question>
+			<answer0>sie lässt den Köder in die gewünschte Tiefe absinken und zeigt den Biss an</answer0>
+			<answer1>sie verhindert Hänger</answer1>
+			<answer2>sie hat eine Lockwirkung auf die Fische</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>40. Wie beeinflussen Knoten die Tragfähigkeit der Angelschnur?</question>
+			<answer0>am Knoten ist die Tragfähigkeit am höchsten</answer0>
+			<answer1>Knoten beeinflussen die Tragfähigkeit nicht</answer1>
+			<answer2>am Knoten ist die Tragfähigkeit geringer</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>41. Was st ein Wobbler?</question>
+			<answer0>ein Gerät zur Rutenreinigung</answer0>
+			<answer1>ein künstlicher Köder für den Raubfischfang</answer1>
+			<answer2>ein Karpfenköder</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>42. Welche Länge soll eine Einhandspinnrute haben?</question>
+			<answer0>1,50 bis 2,10 m</answer0>
+			<answer1>2,40 bis 2,80 m</answer1>
+			<answer2>3,00 bis 5,00 m</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>43. Welche Geräte muss der Angelfischer beim Angeln unbedingt mit sich führen?</question>
+			<answer0>Kescher, Zentimetermass, Fischtöter, Hakenlöser, Messer</answer0>
+			<answer1>Ersatzrute, Wathose, Rutenhalter</answer1>
+			<answer2>Regenzeug, Bissanzeiger, Ersatzrolle</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>44. Wann ist die Prüfung der Knotenfestigkeit erforderlich?</question>
+			<answer0>vor jedem Angeln</answer0>
+			<answer1>spätestens nach einem Jahr</answer1>
+			<answer2>im Frühjahr nach der Winterpause</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>45. Wodurch unterscheidet sich ein Spinner von einem Blinker?</question>
+			<answer0>der Spinner ist leichter als der Blinker</answer0>
+			<answer1>der Spinner dreht sich um die eigene Achse</answer1>
+			<answer2>der Spinner ist farbiger als der Blinker</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>46. Welcher Grundsatz gilt bei der Zusammenstellung: Haken, Schnur, Rute?</question>
+			<answer0>großer Haken, starke Schnur, steife Spitze; kleiner Haken, dünne Schnur, weiche Spitze</answer0>
+			<answer1>großer Haken, dünne Schnur und steife Rute</answer1>
+			<answer2>kleiner Haken, starke Schnur und weiche Rute</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>47. Wozu dient die Löseschere oder Lösezange?</question>
+			<answer0>zum schonenden Herauslösen des Hakens aus dem Maul des gefangenen Fisches</answer0>
+			<answer1>zum Lösen des Hakens vom Stahlvorfach</answer1>
+			<answer2>zum Festhalten des Fisches beim Lösen des Angelhakens</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>48. Welche Art Rutenringe ist kennzeichnend für eine leichte Fliegenrute?</question>
+			<answer0>Rollerringe</answer0>
+			<answer1>Schlangenringe</answer1>
+			<answer2>Zweistegringe</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>49. Aus welchen Materialien werden Ruten heute hergestellt?</question>
+			<answer0>überwiegend aus Metall</answer0>
+			<answer1>überwiegend aus Naturmaterial</answer1>
+			<answer2>überwiegend aus künstlichen Werkstoffen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>50. Aus welchen Material werden gesplisste Ruten gefertigt?</question>
+			<answer0>aus Kohlefaser</answer0>
+			<answer1>aus Glasfiber</answer1>
+			<answer2>aus Tonkinrohr</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>51. Welchen Vorteil hat eine Kohlefaserrute?</question>
+			<answer0>sie ist besonders billig</answer0>
+			<answer1>sie ist besonders leicht</answer1>
+			<answer2>sie ist unzerbrechlich</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>52. Was versteht man bei einer Angel unter ihrer Aktion?</question>
+			<answer0>die Belastbarkeit der Rute</answer0>
+			<answer1>die Art der Durchbiegung unter Last</answer1>
+			<answer2>die Stärke der Rute</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>53. Welche Aktion hat eine Rute, die sich von der Spitze bis zum Griff unter Belastung biegt?</question>
+			<answer0>Parabolik-Aktion</answer0>
+			<answer1>Spitzen-Aktion</answer1>
+			<answer2>mittlere Aktion</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>54. Welche Aktion soll eine lange Teleskoprute für das Stippen haben?</question>
+			<answer0>mittlere Aktion</answer0>
+			<answer1>Parabolik-Aktion</answer1>
+			<answer2>Spitzen-Aktion</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>55. Wie wird das Wurfgewicht einer Rute angegeben?</question>
+			<answer0>in Milligramm</answer0>
+			<answer1>in Gramm</answer1>
+			<answer2>in Kilogramm</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>56. Welche Aktion haben Weitwurfruten (Brandungsruten)?</question>
+			<answer0>Spitzen-Aktion</answer0>
+			<answer1>mittlere Aktion</answer1>
+			<answer2>Parabolik-Aktion</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>57. Welche Aktion sollen Spinnruten haben?</question>
+			<answer0>mittlere Aktion</answer0>
+			<answer1>Spitzen-Aktion</answer1>
+			<answer2>Parabolik-Aktion</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>58. Welche Aufgabe hat eine Schwingspitze?</question>
+			<answer0>sie federt die plötzliche Flucht eines Fisches ab</answer0>
+			<answer1>sie ermöglicht besonders weite Würfe</answer1>
+			<answer2>sie ist ein sensibler Bißanzeiger</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>59. Wie ist das Spulengehäuse bei modernen Stationärrollen konstruiert?</question>
+			<answer0>als innenliegende Spule</answer0>
+			<answer1>als freiliegende Spule</answer1>
+			<answer2>als übergreifende oder Doppelwandspule</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>60. Wieviel Meter Schnur nimmt die Spule einer kleinen Stationärrolle auf?</question>
+			<answer0>ca. 100 m der Stärke bis 0,25 mm</answer0>
+			<answer1>ca. 100 m der Stärke 0,25-0,35 mm</answer1>
+			<answer2>ca. 100 m der Stärke 0,35-0,45 mm</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>61. Welche Rollen verwendet man bei Schnurstärken bis 0,20 mm?</question>
+			<answer0>große Stationärrollen</answer0>
+			<answer1>mittelgroße Stationärrollen</answer1>
+			<answer2>kleine Stationärrollen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>62. Welche Rollen verwendet man bei Schnurstärken ab 0,45mm?</question>
+			<answer0>große Rollen</answer0>
+			<answer1>mittelgroße Rollen</answer1>
+			<answer2>kleine Rollen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>63. Für welche Angelmethode eignen sich Fliegenrollen besonders?</question>
+			<answer0>nur für das Fliegenfischen</answer0>
+			<answer1>für alle Angelmethoden</answer1>
+			<answer2>für das Spinnfischen</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>64. Für welche Angelmethoden eignen sich Multirollen besonders?</question>
+			<answer0>für alle Methoden</answer0>
+			<answer1>für schweres Meeresfischen</answer1>
+			<answer2>für das Stippfischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>65. Welche Schnurlänge und -stärke beim Hechtfang (Monofilschnur) ist nötig?</question>
+			<answer0>ca. 100 m ab Stärke 0,45 mm</answer0>
+			<answer1>ca. 100 m ab Stärke 0,60 mm</answer1>
+			<answer2>ca. 150 m ab Stärke 20-28 mm</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>66. Bei welchen Arten soll man ein Stahlvorfach verwenden?</question>
+			<answer0>Barsch</answer0>
+			<answer1>Zander</answer1>
+			<answer2>Hecht</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>68. Wie soll die Spulenbremse beim Drill eingestellt werden?</question>
+			<answer0>so, dass die Bruchfestigkeit der Rute nicht überschritten wird</answer0>
+			<answer1>so, dass die Zerreißfestigkeit der Schnur nicht überschritten wird</answer1>
+			<answer2>so, dass ein Fisch keine Schnur abziehen kann</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>67. Wo wird die Bremse bei einer Stationärrolle eingestellt?</question>
+			<answer0>immer vorn an der Spule</answer0>
+			<answer1>immer hinten am Gehäuse</answer1>
+			<answer2>je nach Wahl einer Rolle mit Front- oder Heckbremse</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>69. Für welche Angelmethode eignen sich Stationärrollen besonders?</question>
+			<answer0>für das Fliegenfischen</answer0>
+			<answer1>für alle Angelarten</answer1>
+			<answer2>für leichtes und mittleres Spinn- und Grundfischen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>70. Für welche Angelmethode eignen sich Multi- und Stationärrollen nicht?</question>
+			<answer0>für das Meeresfischen</answer0>
+			<answer1>für das Fliegenfischen</answer1>
+			<answer2>für das Spinnfischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>71. Wie werden monofile Angelschnüre hergestellt?</question>
+			<answer0>sie werden geflochten oder geklöppelt</answer0>
+			<answer1>sie werden aus einem Stück gezogen</answer1>
+			<answer2>sie werden zusammengeknüpft</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>72. Für welche Angelmethode werden bevorzugt geflochtene Schnüre eingesetzt?</question>
+			<answer0>für leichtes Grundfischen</answer0>
+			<answer1>für das Meeresfischen</answer1>
+			<answer2>für schweres Fliegenfischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>73. Wie lautet die Kurzbezeichnung für sinkende oder Nassschnüre?</question>
+			<answer0>"S"</answer0>
+			<answer1>"T"</answer1>
+			<answer2>"F"</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>74. Wie wird die Länge einer Fliegenschnur angegeben?</question>
+			<answer0>in cm</answer0>
+			<answer1>in yards</answer1>
+			<answer2>in foot</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>75. Zu welcher Angelmethode gehört die "doppelt verjüngte" Schnur?</question>
+			<answer0>zum Stippfischen</answer0>
+			<answer1>zum Fliegenfischen</answer1>
+			<answer2>zum Grundfischen</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>76. Was bedeutet der Aufdruck "F/S Sink Head" auf der Verpackung der Fliegenschnur?</question>
+			<answer0>Vorsicht, Kopf zur Seite senken beim Werfen</answer0>
+			<answer1>die englische Herstellerfirma</answer1>
+			<answer2>das Absinken des  ca. 6 m langen vorderen Teils einer Schwimmschnur</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>77. Welche Fische kann man mit Monofilschnur der Stärke 0,20 mm fangen?</question>
+			<answer0>Hecht</answer0>
+			<answer1>Huchen</answer1>
+			<answer2>Hasel</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>78. Welche Form haben Fliegenvorfächer?</question>
+			<answer0>parallel</answer0>
+			<answer1>einseitig verjüngt</answer1>
+			<answer2>doppelt verjüngt</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>79. Welche Kombination Haken/Monofilvorfach ist zweckmässig?</question>
+			<answer0>Hakengrösse 4/0, Vorfachstärke 0,20</answer0>
+			<answer1>Hakengrösse 13, Vorfachstärke 0,35</answer1>
+			<answer2>Hakengrösse 3, Vorfachstärke 0,30</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>80. Bei welcher Angelmethode werden vorwiegend Drillinge verwendet?</question>
+			<answer0>beim Grundfischen</answer0>
+			<answer1>beim Fliegenfischen</answer1>
+			<answer2>beim Spinnfischen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>81. Aus welchen Material bestehen Angelhaken?</question>
+			<answer0>aus Stahl</answer0>
+			<answer1>aus Messing</answer1>
+			<answer2>aus Kunststoff</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>82. Wie bezeichnet man Haken mit mehreren Widerhaken am Schenkel?</question>
+			<answer0>Fliegenhaken</answer0>
+			<answer1>Schonhaken</answer1>
+			<answer2>Wurmhaken</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>83. Wenn empfiehlt sich das Angeln ohne Widerhaken am Hakenschenkel?</question>
+			<answer0>beim Aufziehen eines Tauwurms</answer0>
+			<answer1>beim Nachtangeln</answer1>
+			<answer2>wenn zu häufig untermaßige Fische den Köder nehmen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>84. Welcher Haken ist am größten?</question>
+			<answer0>Größe 3/0</answer0>
+			<answer1>Größe 9</answer1>
+			<answer2>Größe 20</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>85. Welcher Haken ist am kleinsten?</question>
+			<answer0>Grösse 0/1</answer0>
+			<answer1>Grösse 1/0</answer1>
+			<answer2>Grösse 11</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>86. Welche Aufgabe hat die Schaufel an der Spitze eines Wobblers?</question>
+			<answer0>sie erhöht die Laufgeschwindigkeit des Köders</answer0>
+			<answer1>sie bestimmt die Tiefe, in der der Köder geführt werden kann</answer1>
+			<answer2>sie verstärkt die Täuschung, dass es sich um einen lebenden Fisch handelt</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>87. Welche der nachstehenden Arten werden mit mittelgroßen Haken gefangen?</question>
+			<answer0>Schleie, Döbel, Blei, Barbe</answer0>
+			<answer1>Aal, große Karpfen, Zander</answer1>
+			<answer2>Plötze, Rotfeder, Äsche</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>88. An welche Art Haken werden Kunstfliegen gebunden?</question>
+			<answer0>Öhrhaken</answer0>
+			<answer1>Plättchenhaken</answer1>
+			<answer2>Drillingshaken</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>89. Was bezeichnen Angler als eine "Nymphe"</question>
+			<answer0>das weibliche Gegenstück zum "Petrijunger"</answer0>
+			<answer1>Kunstfliegen, die Insektenlarven nachahmen</answer1>
+			<answer2>Brutfische im Dottersackstadium</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>90. Wie stark soll der Auftrieb einer Pose sein?</question>
+			<answer0>der Auftrieb ist nur bei kleinen Fischen von Bedeutung</answer0>
+			<answer1>je stärker der Auftrieb, desto besser kann man die Pose erkennen</answer1>
+			<answer2>der Auftrieb soll möglichst gering sein, damit der Fisch wenig Widerstand spürt</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>91. Für welche Gewässerart sind schlanke Posen besonders geeignet?</question>
+			<answer0>für starke Strömung</answer0>
+			<answer1>für stehende Gewässer</answer1>
+			<answer2>für das Angeln bei Starkwind</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>92. Welches Maß bestimmt beim Angeln mit Gleitschwimmer die Angeltiefe?</question>
+			<answer0>der Abstand zwischen Köder und Schwimmer</answer0>
+			<answer1>der Abstand zwischen Köder und Stopper</answer1>
+			<answer2>der Abstand zwischen Köder und Blei</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>93. Welche Aufgabe haben Wirbel? Sie verhindern...</question>
+			<answer0>Schnurverdrehungen und Perückenbildung</answer0>
+			<answer1>Schnurbruch</answer1>
+			<answer2>das Hängenbleiben des Hakens in der Schnur</answer2>
+			<rightAnswer>0</rightAnswer>
+		</item>
+		<item>
+			<question>94. Bei welcher Angelart werden keine Wirbel eingesetzt?</question>
+			<answer0>beim Grundfischen</answer0>
+			<answer1>beim Spinnfischen</answer1>
+			<answer2>beim Fliegenfischen</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>95. Welche Köder zählen nicht zu den natürlichen Ködern?</question>
+			<answer0>Würmer, Maden, Käfer</answer0>
+			<answer1>Brot, Käse. Kartoffeln</answer1>
+			<answer2>Blinker, Spinner, Wobbler</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>96. Welches typische Merkmal haben "Spinner" im Unterschied zu "Blinkern"?</question>
+			<answer0>sie sind aus Metall</answer0>
+			<answer1>sie locken den Fisch durch ein um eine Achse rotierendes Metallblatt</answer1>
+			<answer2>der Haken wird durch rote Kunststoffblättchen verdeckt</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>99. Was ist ein "rod pod"?</question>
+			<answer0>ein Rutenfutteral</answer0>
+			<answer1>eine flexibel einstellbare Rutenauflage</answer1>
+			<answer2>ein Gefährt zum Transport des Angelgeräts</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>97. Welche Fische lassen sich gut mit einem Blinker fangen?</question>
+			<answer0>Blei und Güster</answer0>
+			<answer1>Hecht und Wels</answer1>
+			<answer2>Schleie und Plötze</answer2>
+			<rightAnswer>1</rightAnswer>
+		</item>
+		<item>
+			<question>98. Ist eine Stipprute beringt?</question>
+			<answer0>ja</answer0>
+			<answer1>nein</answer1>
+			<answer2>nicht jede</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+		<item>
+			<question>100. Was soll bei einer richtig austarierten Pose aus dem Wasser schauen?</question>
+			<answer0>zwei Drittel des Schwimmkörpers, um gut sichtbar zu sein</answer0>
+			<answer1>sie sollte auf der Wasseroberfläche liegen wegen des Wellentanzes</answer1>
+			<answer2>nur noch die gut sichtbare Antenne</answer2>
+			<rightAnswer>2</rightAnswer>
+		</item>
+	</section>
 	<section name="Gesetzeskunde">
 		<item>
 			<question>1. Was ist ein selbstständiges Fischereirecht nach dem Thüringer Fischereigesetz?</question>
@@ -3507,708 +4209,6 @@
 			<answer0>grundsätzlich ja</answer0>
 			<answer1>bei Zuzahlung einer Fischereiabgabe</answer1>
 			<answer2>mit Ausnahme von Bayern</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-	</section>
-	<section name="Allgemeine Fischkunde">
-		<item>
-			<question>1. Wieviel Fischarten leben in Thüringen?</question>
-			<answer0>weniger als 50</answer0>
-			<answer1>50 bis 80</answer1>
-			<answer2>mehr als 80</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>2. Zu welcher Fischgruppe gehört der Karpfen?</question>
-			<answer0>zu den Knorpelfischen</answer0>
-			<answer1>zu den Schmelzschuppern</answer1>
-			<answer2>zu den echten Knochenfischen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>3. Salmoniden haben eine Fettflosse. Welche Aussage ist richtig?</question>
-			<answer0>sie ist strahlenlos</answer0>
-			<answer1>sie hat Weichstrahlen</answer1>
-			<answer2>sie hat Stachelstrahlen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>4. Wo laicht der Atlantische Lachs?</question>
-			<answer0>im Salzwasser</answer0>
-			<answer1>im Süßwasser</answer1>
-			<answer2>im Brackwasser</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>5. Welcher Fisch besitzt Stachelstrahlen in den Rückenflossen?</question>
-			<answer0>Flussbarsch</answer0>
-			<answer1>Regenbogenforelle</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>6. Welche Fische zählen im Süßwasser zu den Schmelzschuppern?</question>
-			<answer0>die Lachsartigen</answer0>
-			<answer1>die Störartigen</answer1>
-			<answer2>die Barschartigen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>7. Welcher Fisch hat bauchständige Bauchflossen?</question>
-			<answer0>Blei</answer0>
-			<answer1>Barsch</answer1>
-			<answer2>Quappe</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>8. Welcher Fisch hat brustständige Bauchfloosen?</question>
-			<answer0>Aal</answer0>
-			<answer1>Koppe</answer1>
-			<answer2>Quappe</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>9. Welcher Fisch hat einen Sägestrahl in der Rückenflosse?</question>
-			<answer0>Forelle</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Flussbarsch</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>10. Worin besteht die Hauptaufgabe der Bauchflossen?</question>
-			<answer0>Steuerung</answer0>
-			<answer1>Fortbewegung</answer1>
-			<answer2>Stabilisierung</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>11. Welcher Fisch hat keine Schwimmblase?</question>
-			<answer0>Wels</answer0>
-			<answer1>Mühlkoppe</answer1>
-			<answer2>Schlammpeitzger</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>12. Bei welchen Fischen kommt Hautatmung überwiegend vor?</question>
-			<answer0>bei Bodenfischen</answer0>
-			<answer1>bei frisch geschlüpften Fischen (Fischlarven)</answer1>
-			<answer2>bei erkrankten Fischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>13. Welcher  Fisch hat kehlständige Bauchflossen?</question>
-			<answer0>Karpfen</answer0>
-			<answer1>Flussbarsch</answer1>
-			<answer2>Quappe</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>14. Welcher Fisch ist hochrückig?</question>
-			<answer0>Döbel</answer0>
-			<answer1>Blei</answer1>
-			<answer2>Barbe</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>15. Welche Aufgabe hat die Rückenflosse?</question>
-			<answer0>Fortbewegung</answer0>
-			<answer1>Stabilisierung der Körperhaltung</answer1>
-			<answer2>Steuerung</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>16. Welcher Fisch hat drei Rückenflossen?</question>
-			<answer0>Blei</answer0>
-			<answer1>Dorsch</answer1>
-			<answer2>Barsch</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>18. Welcher Fisch hat keine Bauchflossen?</question>
-			<answer0>Wels</answer0>
-			<answer1>Aal</answer1>
-			<answer2>Schleie</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>17. Welcher Fisch benötigt am wenigsten Sauerstoff?</question>
-			<answer0>Aal</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Karausche</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>19. Zu welcher Fischgruppe gehören die meisten heimischen Süsswasserfische?</question>
-			<answer0>Schmelzschupper</answer0>
-			<answer1>Knorpelfische</answer1>
-			<answer2>Knochenfische</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>20. Welche Fischfamilie ist besonders sauerstoffbedürftig?</question>
-			<answer0>Karpfenartige</answer0>
-			<answer1>Lachsartige</answer1>
-			<answer2>Barschartige</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>21. Welcher Art fehlen die Brust- und Bauchflossen?</question>
-			<answer0>Aal</answer0>
-			<answer1>Stichling</answer1>
-			<answer2>Neunauge</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>22. Welcher Fisch hat 10 Barteln?</question>
-			<answer0>Gründling</answer0>
-			<answer1>Steinbeisser</answer1>
-			<answer2>Schlammpeitzker</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>23. Wovon hängt die Zahl der Herzschläge bei Fischen ab?</question>
-			<answer0>vom pH-Wert des Wassers</answer0>
-			<answer1>von der Wassertemperatur</answer1>
-			<answer2>vom SBV-Wert</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>24. Welche Temperatur hat das Blut der Fische?</question>
-			<answer0>35-36°C</answer0>
-			<answer1>etwa die Wassertemperatur</answer1>
-			<answer2>10-13°C</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>25. Welches Sinnesorgan steuert die Anpassung der Farbe von Fischen an den Standort?</question>
-			<answer0>Seitenlinie</answer0>
-			<answer1>Gehör</answer1>
-			<answer2>Auge</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>26. Woher kommt die Bezeichnung Neunauge?</question>
-			<answer0>von den 9 Augen</answer0>
-			<answer1>von 1 Auge und 8 Kiemenöffnungen</answer1>
-			<answer2>von 1 Nasenloch, 1 Auge, 7 Kiemenöffnungen (beiderseits sichtbar)</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>27. Durch welche Gruppe sind Rundmäuler im Süsswasser vertreten?</question>
-			<answer0>durch die Knorpelfische</answer0>
-			<answer1>durch die Neunaugen</answer1>
-			<answer2>durch die Schmelzschupper</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>28. Querder sind...?</question>
-			<answer0>die Larven der Quappen</answer0>
-			<answer1>die Larven der Neunaugen</answer1>
-			<answer2>die Larven der Welse</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>29. Das Blut welcher Fische sollte wegen seiner Reizstoffedie nicht in unsere Augen geraten?</question>
-			<answer0>Karpfen und Hecht</answer0>
-			<answer1>Wels und Aal</answer1>
-			<answer2>Forellen und Saiblinge</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>30. Bei welchen Fischen findet man Pylorusanhänge am Darmeingang?</question>
-			<answer0>bei Lachsartigen</answer0>
-			<answer1>bei Karpfenartigen</answer1>
-			<answer2>bei Hechten</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>32. Welche Farbe hat die gefüllte Gallenblase?</question>
-			<answer0>dunkelbraun</answer0>
-			<answer1>dunkelgrün</answer1>
-			<answer2>schwarz</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>31. Welche Farbe hat die Leber gesunder Fische? (Ausnahme: Hecht und Quappe)</question>
-			<answer0>rotbraun</answer0>
-			<answer1>gelblich</answer1>
-			<answer2>blauschwarz</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>33. Welcher Fisch hat keinen Magen?</question>
-			<answer0>Karpfen</answer0>
-			<answer1>Barsch</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>34. Wo liegen beim Fisch die Nieren?</question>
-			<answer0>in der Mitte der Bauchhöhle</answer0>
-			<answer1>in der unteren Bauchhöhle</answer1>
-			<answer2>unterhalb entlang der Wirbelsäule</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>35. Wo liegt das Gehirn bei  Fischen?</question>
-			<answer0>Fische haben noch kein Gehirn</answer0>
-			<answer1>zwischen Augenhinterrand und Schädeldecke</answer1>
-			<answer2>es wandert im Lauf der Entwicklung von der linken auf die rechte Körperseite</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>36. Welche Aufgabe erfüllt das Seitenlinienorgan?</question>
-			<answer0>es stimuliert das Paarungsverhalten</answer0>
-			<answer1>es ist ein Ferntastsinn</answer1>
-			<answer2>es ist ein äußeres Geschlechtsmerkmal</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>37. Müssen alle mit der Angel gefangenen Fischarten vor dem Töten betäubt werden?</question>
-			<answer0>ja</answer0>
-			<answer1>ja, außer Trophäenfische</answer1>
-			<answer2>ja, außer Aal und Plattfischen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>38. Können unsere heimischen Angelfische Farben unterscheiden?</question>
-			<answer0>ja</answer0>
-			<answer1>nein</answer1>
-			<answer2>manche Arten</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>39. Wie nennt man den Samen männlicher Fische?</question>
-			<answer0>Laich</answer0>
-			<answer1>Milch</answer1>
-			<answer2>Rogen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>41. Wie bezeichnet man abgelegte Fischeier?</question>
-			<answer0>Rogen</answer0>
-			<answer1>Laich</answer1>
-			<answer2>Milch</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>40. Wie bezeichnet man die Eier im Fischkörper?</question>
-			<answer0>Gelege</answer0>
-			<answer1>Rogen</answer1>
-			<answer2>Milch</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>42. In welchem Alter werden Karpfen gewöhlich geschlechtsreif?</question>
-			<answer0>Milchner im 2.; Rogner im 3. Lebensjahr</answer0>
-			<answer1>Milchner im 3.; Rogner im 2. Lebensjahr</answer1>
-			<answer2>Milchner im 3.; Rogner im 4. Lebensjahr</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>43. Welcher Rogen verursacht Brechdurchfall und ist ungenießbar?</question>
-			<answer0>Rogen der Nase</answer0>
-			<answer1>Rogen der Barbe</answer1>
-			<answer2>Rogen des Welses</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>44. Bei welcher Fischart sind die Eierstöcke zusammengewachsen?</question>
-			<answer0>Flussbarsch</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Bachforelle</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>45. Wo erfolgt die Besamung der Fischeier bei den heimischen Süsswasserfischen?</question>
-			<answer0>außerhalb des Körpers</answer0>
-			<answer1>innerhalb des Körpers</answer1>
-			<answer2>unterschiedlich je nach Art</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>46. Welche Fische sind Frühjahreslaicher?</question>
-			<answer0>Hecht und Äsche</answer0>
-			<answer1>Döbel und Barbe</answer1>
-			<answer2>Bachforelle und Bachsaibling</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>47. Welcher Fisch laicht im Herbst oder Winter?</question>
-			<answer0>Bachforelle</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Zander</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>48. Welche Fischart laicht im Kies?</question>
-			<answer0>Äsche</answer0>
-			<answer1>Hecht</answer1>
-			<answer2>Barsch</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>49. Welche Fischart laicht im Kraut?</question>
-			<answer0>Seeforelle</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Koppe</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>50. Welche Fische sind typische Freiwasserlaicher?</question>
-			<answer0>Schleien</answer0>
-			<answer1>Maränen</answer1>
-			<answer2>Barben</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>51. Was ist typisch für den Flussbarsch?</question>
-			<answer0>er klebt seine Eier in Klumpen an Steine und Wurzeln</answer0>
-			<answer1>er klebt seine Eier in Form langer Gürtelschnüre</answer1>
-			<answer2>er legt seine Eier in Bodenmulden</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>52. Was bestimmt vorrangig die Eientwicklung nach dem Ablaichen?</question>
-			<answer0>der Sauerstoffgehalt des Wassers</answer0>
-			<answer1>der pH-Wert</answer1>
-			<answer2>die Wassertemperatur</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>53. Wie kann man aus der Tagesgradzahl die Entwicklungsdauer der Fischeier errechnen?</question>
-			<answer0>mit der Wassertemperatur multiplizieren</answer0>
-			<answer1>durch die Wassertemperatur dividieren</answer1>
-			<answer2>mit dem pH-Wert multiplizieren</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>54. Wie bezeichnet man Fische, die ihren Standort auch zur Laichzeit beibehalten?</question>
-			<answer0>Zugfische</answer0>
-			<answer1>Wanderfische</answer1>
-			<answer2>Standfische</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>55. Welcher Fisch ist ein katadromer Wanderfisch?</question>
-			<answer0>Lachs</answer0>
-			<answer1>Aal</answer1>
-			<answer2>Meerforelle</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>56. Welcher Fisch ist ein anadromer Wanderfisch?</question>
-			<answer0>Lachs</answer0>
-			<answer1>Aal</answer1>
-			<answer2>Bachforelle</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>57. Wo laichen Aale?</question>
-			<answer0>im Flussoberlauf</answer0>
-			<answer1>in der Nordsee</answer1>
-			<answer2>im Westatlantik</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>58. Was versteht man unter "Glasaalen"?</question>
-			<answer0>Satzaale</answer0>
-			<answer1>das dem "Weidenblattstadium" der Larven folgende Jugendstadium des Aales</answer1>
-			<answer2>abwandernde Aale</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>59. Was versteht man unter "Gelbaalen"?</question>
-			<answer0>Aale im Fressstadium</answer0>
-			<answer1>mit dem Golfstrom ankommende Aale</answer1>
-			<answer2>zum Laichen abwandernde Aale</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>60. Was sind "Blankaale"?</question>
-			<answer0>geräucherte Aale</answer0>
-			<answer1>zum Laichen abwandernde Aale</answer1>
-			<answer2>Aallarven</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>61. Was trifft für Aale zu, die zum Laichen abwandern?</question>
-			<answer0>die Bauchseite ist silbrig-weiss</answer0>
-			<answer1>sie sind besonders beißfreudig</answer1>
-			<answer2>die Bauchseite ist gelblich gefärbt</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>62. Welche Art zeigt eine Vorstufe der Brutpflege?</question>
-			<answer0>Stichling</answer0>
-			<answer1>Forelle</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>63. Welcher Fisch hat eine zweikammerige Schwimmblase?</question>
-			<answer0>Hecht</answer0>
-			<answer1>Mühlkoppe</answer1>
-			<answer2>Karpfen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>64. Welche Art betreibt echte Brutpflege?</question>
-			<answer0>Regenbogenforelle</answer0>
-			<answer1>Stichling</answer1>
-			<answer2>Hecht</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>65. Welche Art baut ein Nest?</question>
-			<answer0>Bitterling</answer0>
-			<answer1>Stichling</answer1>
-			<answer2>Mühlkoppe</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>66. Wer baut das Nest der Stichlinge?</question>
-			<answer0>Rogner</answer0>
-			<answer1>Milchner</answer1>
-			<answer2>beide</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>67. Eine Vorstufe der Brutpflege betreibt das Weibchen der Bitterlinge. Es legt seine Eier...</question>
-			<answer0>zwischen Steine</answer0>
-			<answer1>in die Atemhöhle der Teichmuschel</answer1>
-			<answer2>in eine tiefe Laichgrube</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>68. Welche Fische sollen zum Besatz in natürlichen Gewässern verwendet werden?</question>
-			<answer0>möglichst junge Fische</answer0>
-			<answer1>möglichst laichfähige Fische</answer1>
-			<answer2>möglichst fangfähige Fische</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>69. Wie wird die Besatzmenge ausgewiesen?</question>
-			<answer0>pro Hektar und Jahr</answer0>
-			<answer1>pro Hektar und alle 5 Jahre</answer1>
-			<answer2>pro Hektar und alle 10 Jahre</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>70. Wie soll der Besatz mit Äschen und Forellen erfolgen?</question>
-			<answer0>nur mit Brut</answer0>
-			<answer1>mit Brut und Setzlingen</answer1>
-			<answer2>mit fangfähigen Fischen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>71. Was sollte beim Hechtbesatz bedacht werden?</question>
-			<answer0>Männchen und Weibchen sind immer paarweise auszusetzen</answer0>
-			<answer1>die Zahl einsömmriger Hechte sollte über 100 St./ha betragen, da sie zum Kannibalismus neigen</answer1>
-			<answer2>die Verteilung sollte über möglichst viele geeignete Uferstellen erfolgen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>72. Welche Fischkrankheit ist auf den Menschen übertragbar?</question>
-			<answer0>Fischbandwurm</answer0>
-			<answer1>Furunkulose der Forellen</answer1>
-			<answer2>Fischpocken</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>73. Bei welcher Fischfamilie fehlt der Magen?</question>
-			<answer0>Lachsartigen</answer0>
-			<answer1>Karpfenartigen</answer1>
-			<answer2>Barschartigen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>74. Welche Fische werden bevorzugt von der Drehkrankheit befallen?</question>
-			<answer0>Regenbogenforellen</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Schleien</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>75. Welches Krankheitsbild zeigen Fische im akuten Stadium der Drehkrankheit?</question>
-			<answer0>Hautentzündungen</answer0>
-			<answer1>drehförmige Schwimmbewegungen</answer1>
-			<answer2>Mopsgesicht</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>76. Welche Fische werden besonders von Bandwürmern befallen?</question>
-			<answer0>Karpfenartige</answer0>
-			<answer1>Barschartige</answer1>
-			<answer2>Lachsartige</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>77. Wie gross werden Kiemenkrebse?</question>
-			<answer0>1-2mm</answer0>
-			<answer1>2-4mm</answer1>
-			<answer2>4-6mm</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>78. Wie gross werden Fischläuse?</question>
-			<answer0>höchstens 8mm</answer0>
-			<answer1>bis 13mm</answer1>
-			<answer2>über 18mm</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>79. Welche Parasiten benötigen zur Entwicklung einen Zwischenwirt?</question>
-			<answer0>Kiemenkrebs</answer0>
-			<answer1>Kratzer</answer1>
-			<answer2>Karpfenlaus</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>80. In welcher Jahreszeit tritt die Fleckenseuche der Weissfische bevorzugt auf?</question>
-			<answer0>Frühjahr</answer0>
-			<answer1>Herbst</answer1>
-			<answer2>Winter</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>81. Wann tritt die akute Bauchwassersucht der Karpfen bevorzugt auf?</question>
-			<answer0>im Herbst</answer0>
-			<answer1>im Winter</answer1>
-			<answer2>im Frühjahr</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>82. Wo fressen Fische mit unterständigen Maul vorwiegend?</question>
-			<answer0>am Grund</answer0>
-			<answer1>im Mittelwasser</answer1>
-			<answer2>an der Oberfläche</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>83. Welcher Fisch hat einen torpedoförmigen Körper?</question>
-			<answer0>Bachforelle</answer0>
-			<answer1>Karpfen</answer1>
-			<answer2>Blei</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>84. Wo sitzt die Rückenflosse beim Hecht?</question>
-			<answer0>weit vorn</answer0>
-			<answer1>weit hinten</answer1>
-			<answer2>in der Mitte</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>85. Welcher Fisch hat außer den Lachsartigen eine Fettflosse?</question>
-			<answer0>der Zwergwels</answer0>
-			<answer1>der Barsch</answer1>
-			<answer2>der Karpfen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>86. Welche Schuppen hat die Mehrzahl der heimischen Süsswasserfische?</question>
-			<answer0>Rundschuppen</answer0>
-			<answer1>Kammschuppen</answer1>
-			<answer2>Schmelzschuppen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>87. Was kann mit Hilfe der Schuppen bestimmt werden?</question>
-			<answer0>das Alter</answer0>
-			<answer1>das Geschlecht</answer1>
-			<answer2>die Grösse</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>88. Welche Fischarten haben Laichausschlag?</question>
-			<answer0>Weißfische</answer0>
-			<answer1>Forellenartige</answer1>
-			<answer2>Neunaugen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>89. Welcher Fisch hat Schlundzähne?</question>
-			<answer0>die Bachforelle</answer0>
-			<answer1>der Karpfen</answer1>
-			<answer2>der Hecht</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>90. Welche Flossen sind paarig?</question>
-			<answer0>Brust- und Bauchflossen</answer0>
-			<answer1>Schwanz- und Afterflossen</answer1>
-			<answer2>Rückenflossen</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>91. Wann dauert die Entwicklung der Fischeier am längsten?</question>
-			<answer0>bei Winterlaichern</answer0>
-			<answer1>bei Sommerlaichern</answer1>
-			<answer2>bei Krautlaichern</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>92. Welcher Fisch hat eine deutlich unsymmetrische Schwanzflosse?</question>
-			<answer0>Stör</answer0>
-			<answer1>Koppe</answer1>
-			<answer2>Schleie</answer2>
-			<rightAnswer>0</rightAnswer>
-		</item>
-		<item>
-			<question>93. Woran erkennt man den männlichen Krebs?</question>
-			<answer0>er hat kleinere Scheren</answer0>
-			<answer1>an den Griffelbeinen</answer1>
-			<answer2>an den längeren Schreitbeinen</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>94. Wovon ernährt sich vorwiegend der Blei?</question>
-			<answer0>von Pflanzen</answer0>
-			<answer1>von Fischen</answer1>
-			<answer2>von Kleinlebewesen</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>95. Woran ist im Alter die männliche Bachforelle zu erkennen?</question>
-			<answer0>an der starken Rückenflosse</answer0>
-			<answer1>an verdickten Bauchflossen</answer1>
-			<answer2>am Laichhaken</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>96. Welche Art hat Hornzähne?</question>
-			<answer0>Barsch</answer0>
-			<answer1>Neunauge</answer1>
-			<answer2>Forelle</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>97. Wie viele Kiemenpaare besitzen Knochenfische (außer Aal)?</question>
-			<answer0>zwei</answer0>
-			<answer1>vier</answer1>
-			<answer2>fünf</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>98. Welcher Fisch hat eine einkammerige Schwimmblase?</question>
-			<answer0>der Karpfen</answer0>
-			<answer1>die Bachforelle</answer1>
-			<answer2>die Schleie</answer2>
-			<rightAnswer>1</rightAnswer>
-		</item>
-		<item>
-			<question>99. Wo schmarotzt die Karpfenlaus?</question>
-			<answer0>auf den Kiemen</answer0>
-			<answer1>im Darm</answer1>
-			<answer2>auf der Haut</answer2>
-			<rightAnswer>2</rightAnswer>
-		</item>
-		<item>
-			<question>100. Welcher Fisch hat ein Rüsselmaul?</question>
-			<answer0>Blei</answer0>
-			<answer1>Aal</answer1>
-			<answer2>Rotauge</answer2>
 			<rightAnswer>0</rightAnswer>
 		</item>
 	</section>
