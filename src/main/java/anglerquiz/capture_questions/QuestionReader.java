@@ -3,6 +3,7 @@ package anglerquiz.capture_questions;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
@@ -18,7 +19,7 @@ import org.w3c.dom.NodeList;
 public class QuestionReader {
 	Map<String,List<Question>> readQuestionFromResource(InputStream in) throws Exception
 	{
-		Map<String,List<Question>> result= new HashMap<String, List<Question>>();
+		Map<String,List<Question>> result= new LinkedHashMap<String, List<Question>>();
 		
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
